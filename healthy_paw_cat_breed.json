@@ -1,0 +1,386 @@
+[
+    {
+      "name": "Abyssinian",
+      "code": "2000"
+    },
+    {
+      "name": "American Bobtail",
+      "code": "2001"
+    },
+    {
+      "name": "American Curl",
+      "code": "2002"
+    },
+    {
+      "name": "American Domestic",
+      "code": "2003"
+    },
+    {
+      "name": "American Keuda",
+      "code": "2074"
+    },
+    {
+      "name": "American Longhair",
+      "code": "2075"
+    },
+    {
+      "name": "American Shorthair",
+      "code": "2004"
+    },
+    {
+      "name": "American Wirehair",
+      "code": "2005"
+    },
+    {
+      "name": "Angora",
+      "code": "2006"
+    },
+    {
+      "name": "Ashera",
+      "code": "2007"
+    },
+    {
+      "name": "Australian Mist",
+      "code": "2076"
+    },
+    {
+      "name": "Balinese",
+      "code": "2008"
+    },
+    {
+      "name": "Bengal",
+      "code": "2009"
+    },
+    {
+      "name": "Bengalese",
+      "code": "2077"
+    },
+    {
+      "name": "Birman",
+      "code": "2010"
+    },
+    {
+      "name": "Bombay",
+      "code": "2011"
+    },
+    {
+      "name": "Brazilian Shorthair",
+      "code": "2078"
+    },
+    {
+      "name": "British Longhair",
+      "code": "2012"
+    },
+    {
+      "name": "British Shorthair",
+      "code": "2013"
+    },
+    {
+      "name": "Burmese",
+      "code": "2014"
+    },
+    {
+      "name": "Burmilla",
+      "code": "2015"
+    },
+    {
+      "name": "Calico",
+      "code": "2079"
+    },
+    {
+      "name": "California Spangled",
+      "code": "2016"
+    },
+    {
+      "name": "Cameo Longhair",
+      "code": "2080"
+    },
+    {
+      "name": "Chantilly / Tiffany",
+      "code": "2017"
+    },
+    {
+      "name": "Chartreux",
+      "code": "2018"
+    },
+    {
+      "name": "Chausie",
+      "code": "2019"
+    },
+    {
+      "name": "Chinchilla",
+      "code": "2020"
+    },
+    {
+      "name": "Colorpoint",
+      "code": "2081"
+    },
+    {
+      "name": "Colorpoint Longhair",
+      "code": "2082"
+    },
+    {
+      "name": "Colorpoint Shorthair",
+      "code": "2021"
+    },
+    {
+      "name": "Cornish Rex",
+      "code": "2022"
+    },
+    {
+      "name": "Cymric",
+      "code": "2023"
+    },
+    {
+      "name": "Devon Rex",
+      "code": "2024"
+    },
+    {
+      "name": "Domestic Long Hair",
+      "code": "318"
+    },
+    {
+      "name": "Domestic Medium Hair",
+      "code": "320"
+    },
+    {
+      "name": "Domestic Short Hair",
+      "code": "319"
+    },
+    {
+      "name": "Donskoy",
+      "code": "2025"
+    },
+    {
+      "name": "Dutch Rex",
+      "code": "2026"
+    },
+    {
+      "name": "Egyptian Mau",
+      "code": "2027"
+    },
+    {
+      "name": "European Burmese",
+      "code": "2028"
+    },
+    {
+      "name": "European Shorthair",
+      "code": "2029"
+    },
+    {
+      "name": "Exotic",
+      "code": "2030"
+    },
+    {
+      "name": "Feral",
+      "code": "2083"
+    },
+    {
+      "name": "German Rex",
+      "code": "2031"
+    },
+    {
+      "name": "Habari",
+      "code": "2032"
+    },
+    {
+      "name": "Havana Brown",
+      "code": "2033"
+    },
+    {
+      "name": "Highlander",
+      "code": "2034"
+    },
+    {
+      "name": "Highland Fold",
+      "code": "2084"
+    },
+    {
+      "name": "Highland Lynx",
+      "code": "2085"
+    },
+    {
+      "name": "Himalayan",
+      "code": "2035"
+    },
+    {
+      "name": "Japanese Bobtail",
+      "code": "2036"
+    },
+    {
+      "name": "Javanese",
+      "code": "2037"
+    },
+    {
+      "name": "Kashmir",
+      "code": "2038"
+    },
+    {
+      "name": "Korat",
+      "code": "2039"
+    },
+    {
+      "name": "La Perm",
+      "code": "2040"
+    },
+    {
+      "name": "Maine Coon",
+      "code": "2041"
+    },
+    {
+      "name": "Manx",
+      "code": "2042"
+    },
+    {
+      "name": "Mekong Bobtail",
+      "code": "2086"
+    },
+    {
+      "name": "Minuet",
+      "code": "2087"
+    },
+    {
+      "name": "Mixed Breed",
+      "code": "317"
+    },
+    {
+      "name": "Munchkin",
+      "code": "2043"
+    },
+    {
+      "name": "Napoleon",
+      "code": "2088"
+    },
+    {
+      "name": "Nebelung",
+      "code": "2044"
+    },
+    {
+      "name": "Norwegian Forest Cat",
+      "code": "2045"
+    },
+    {
+      "name": "Ocicat",
+      "code": "2046"
+    },
+    {
+      "name": "Ojos Azules",
+      "code": "2047"
+    },
+    {
+      "name": "Oriental",
+      "code": "2048"
+    },
+    {
+      "name": "Persian",
+      "code": "2049"
+    },
+    {
+      "name": "Peterbald",
+      "code": "2050"
+    },
+    {
+      "name": "Pinto",
+      "code": "2089"
+    },
+    {
+      "name": "Pixiebob",
+      "code": "2051"
+    },
+    {
+      "name": "Ragamuffin",
+      "code": "2052"
+    },
+    {
+      "name": "Ragdoll",
+      "code": "2053"
+    },
+    {
+      "name": "Russian Blue",
+      "code": "2054"
+    },
+    {
+      "name": "Safari",
+      "code": "2055"
+    },
+    {
+      "name": "Savannah",
+      "code": "2056"
+    },
+    {
+      "name": "Scottish Fold",
+      "code": "2057"
+    },
+    {
+      "name": "Selkirk Rex",
+      "code": "2058"
+    },
+    {
+      "name": "Serengeti",
+      "code": "2059"
+    },
+    {
+      "name": "Seychellois",
+      "code": "2060"
+    },
+    {
+      "name": "Siamese",
+      "code": "2061"
+    },
+    {
+      "name": "Siberian",
+      "code": "2062"
+    },
+    {
+      "name": "Singapura",
+      "code": "2063"
+    },
+    {
+      "name": "Snowshoe",
+      "code": "2064"
+    },
+    {
+      "name": "Sokoke Forest",
+      "code": "2065"
+    },
+    {
+      "name": "Somali",
+      "code": "2066"
+    },
+    {
+      "name": "Sphynx",
+      "code": "2067"
+    },
+    {
+      "name": "Sterling",
+      "code": "2090"
+    },
+    {
+      "name": "Thai",
+      "code": "2068"
+    },
+    {
+      "name": "Tonkinese",
+      "code": "2069"
+    },
+    {
+      "name": "Toybob",
+      "code": "2091"
+    },
+    {
+      "name": "Toyger",
+      "code": "2070"
+    },
+    {
+      "name": "Turkish Angora",
+      "code": "2071"
+    },
+    {
+      "name": "Turkish Van",
+      "code": "2072"
+    },
+    {
+      "name": "York Chocolate",
+      "code": "2073"
+    }
+  ]

@@ -1,0 +1,4106 @@
+{
+    "mixed-large-over-70lb": {
+      "label": "Mixed Large (Over 70lb)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mixed Breed Large (71+lbs)",
+        "Pumpkin": "Dog~Mixed~Giant%20Mix%20(over%20100%20pounds)",
+        "HealthyPaws": "104"
+      }
+    },
+    "mixed-medium-23lb-70lb": {
+      "label": "Mixed Medium (23lb - 70lb)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mixed Breed Medium (21 to 70 lbs)",
+        "Pumpkin": null,
+        "HealthyPaws": "103"
+      }
+    },
+    "mixed-small-up-to-22lb": {
+      "label": "Mixed Small (Up To 22lb)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mixed Breed Small (up to 20 lbs)",
+        "Pumpkin": "Dog~Mixed~Small%20Mix%20(up%20to%2010%20pounds)",
+        "HealthyPaws": null
+      }
+    },
+    "other-breed-not-found": {
+      "label": "Other/Breed Not Found",
+      "providers": {
+        "PrudentPet": null,
+        "Pumpkin": null,
+        "HealthyPaws": null
+      }
+    },
+    "affenpinscher": {
+      "label": "Affenpinscher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Affenpinscher",
+        "Pumpkin": "Dog~PureBreed~Affenpinscher",
+        "HealthyPaws": "1000"
+      }
+    },
+    "afghan-hound": {
+      "label": "Afghan Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Afghan Hound",
+        "Pumpkin": "Dog~PureBreed~Afghan%20Hound",
+        "HealthyPaws": "1001"
+      }
+    },
+    "aidi": {
+      "label": "Aidi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Aidi",
+        "Pumpkin": "Dog~PureBreed~Canadian%20Husky",
+        "HealthyPaws": "1353"
+      }
+    },
+    "ainu-dog": {
+      "label": "Ainu Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ainu Dog",
+        "Pumpkin": "Dog~PureBreed~Ainu%20Dog",
+        "HealthyPaws": "1233"
+      }
+    },
+    "airedale-terrier": {
+      "label": "Airedale Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Airedale Terrier",
+        "Pumpkin": "Dog~PureBreed~Airedale%20Terrier",
+        "HealthyPaws": "1002"
+      }
+    },
+    "akbash-dog": {
+      "label": "Akbash Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Akbash Dog",
+        "Pumpkin": "Dog~PureBreed~Akbash",
+        "HealthyPaws": "1355"
+      }
+    },
+    "akita": {
+      "label": "Akita",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Akita",
+        "Pumpkin": "Dog~PureBreed~Akita",
+        "HealthyPaws": "1003"
+      }
+    },
+    "alano-espanol": {
+      "label": "Alano Espanol",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alano Espanol",
+        "Pumpkin": "Dog~PureBreed~Italian%20Spinone",
+        "HealthyPaws": "1356"
+      }
+    },
+    "alapaha-blue-blood-bulldog": {
+      "label": "Alapaha Blue Blood Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alapaha Blue Blood Bulldog",
+        "Pumpkin": "Dog~PureBreed~Olde%20Boston%20Bulldogge",
+        "HealthyPaws": "1234"
+      }
+    },
+    "alaskan-husky": {
+      "label": "Alaskan Husky",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alaskan Husky",
+        "Pumpkin": "Dog~PureBreed~Alaskan%20Husky",
+        "HealthyPaws": "1004"
+      }
+    },
+    "alaskan-klee-kai": {
+      "label": "Alaskan Klee Kai",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alaskan Klee Kai",
+        "Pumpkin": "Dog~PureBreed~Alaskan%20Klee%20Kai",
+        "HealthyPaws": "1235"
+      }
+    },
+    "alaskan-malamute": {
+      "label": "Alaskan Malamute",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alaskan Malamute",
+        "Pumpkin": "Dog~PureBreed~Alaskan%20Malamute",
+        "HealthyPaws": "1005"
+      }
+    },
+    "alpine-dachsbracke": {
+      "label": "Alpine Dachsbracke",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alpine Dachsbracke",
+        "Pumpkin": "Dog~PureBreed~Alpine%20Dachsbracke",
+        "HealthyPaws": "1357"
+      }
+    },
+    "alsatian": {
+      "label": "Alsatian",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alsatian",
+        "Pumpkin": "Dog~PureBreed~Dalmatian",
+        "HealthyPaws": "1358"
+      }
+    },
+    "american-bulldog": {
+      "label": "American Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Bulldog",
+        "Pumpkin": "Dog~PureBreed~American%20Bulldog",
+        "HealthyPaws": "1352"
+      }
+    },
+    "american-bullnese": {
+      "label": "American Bullnese",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Bullnese",
+        "Pumpkin": "Dog~PureBreed~American%20Bulldog",
+        "HealthyPaws": "1359"
+      }
+    },
+    "american-bully": {
+      "label": "American Bully",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Bulldog",
+        "Pumpkin": "Dog~PureBreed~American%20Bully",
+        "HealthyPaws": "1237"
+      }
+    },
+    "american-cocker-spaniel": {
+      "label": "American Cocker Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Cocker Spaniel",
+        "Pumpkin": "Dog~PureBreed~American%20Water%20Spaniel",
+        "HealthyPaws": "1007"
+      }
+    },
+    "american-eskimo-dog": {
+      "label": "American Eskimo Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Eskimo Dog",
+        "Pumpkin": "Dog~PureBreed~American%20Eskimo%20Dog",
+        "HealthyPaws": "1009"
+      }
+    },
+    "american-eskimo-dog-miniature": {
+      "label": "American Eskimo Dog - miniature",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Eskimo Dog -miniature",
+        "Pumpkin": "Dog~PureBreed~American%20Eskimo%20Dog",
+        "HealthyPaws": "1009"
+      }
+    },
+    "american-foxhound": {
+      "label": "American Foxhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Foxhound",
+        "Pumpkin": "Dog~PureBreed~American%20Foxhound",
+        "HealthyPaws": "1010"
+      }
+    },
+    "american-hairless-terrier": {
+      "label": "American Hairless Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Hairless Terrier",
+        "Pumpkin": "Dog~PureBreed~American%20Hairless%20Terrier",
+        "HealthyPaws": "1238"
+      }
+    },
+    "american-indian-dog": {
+      "label": "American Indian Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Indian Dog",
+        "Pumpkin": "Dog~PureBreed~American%20Indian%20Dog",
+        "HealthyPaws": "1361"
+      }
+    },
+    "american-lo-sze-pugg": {
+      "label": "American Lo-Sze Pugg",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Lo-Sze Pugg",
+        "Pumpkin": "Dog~PureBreed~American%20Foxhound",
+        "HealthyPaws": "1362"
+      }
+    },
+    "american-mastiff": {
+      "label": "American Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Mastiff",
+        "Pumpkin": "Dog~PureBreed~American%20Staffordshire%20Terrier",
+        "HealthyPaws": "1239"
+      }
+    },
+    "american-pit-bull-terrier": {
+      "label": "American Pit Bull Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Pit Bull Terrier",
+        "Pumpkin": "Dog~PureBreed~American%20Hairless%20Terrier",
+        "HealthyPaws": "1011"
+      }
+    },
+    "american-staffordshire-terrier": {
+      "label": "American Staffordshire Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Staffordshire Terrier",
+        "Pumpkin": "Dog~PureBreed~American%20Staffordshire%20Terrier",
+        "HealthyPaws": "1012"
+      }
+    },
+    "american-staghound": {
+      "label": "American Staghound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Staghound",
+        "Pumpkin": "Dog~PureBreed~American%20Foxhound",
+        "HealthyPaws": "1364"
+      }
+    },
+    "american-tundra-shepherd": {
+      "label": "American Tundra Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Tundra Shepherd",
+        "Pumpkin": "Dog~PureBreed~German%20Shepherd",
+        "HealthyPaws": "1365"
+      }
+    },
+    "american-water-spaniel": {
+      "label": "American Water Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American Water Spaniel",
+        "Pumpkin": "Dog~PureBreed~American%20Water%20Spaniel",
+        "HealthyPaws": "1013"
+      }
+    },
+    "american-white-shepherd": {
+      "label": "American White Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~American White Shepherd",
+        "Pumpkin": "Dog~PureBreed~German%20Shepherd",
+        "HealthyPaws": "1366"
+      }
+    },
+    "anatolian-shepherd-dog": {
+      "label": "Anatolian Shepherd Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Anatolian Shepherd Dog",
+        "Pumpkin": "Dog~PureBreed~Anatolian%20Shepherd%20Dog",
+        "HealthyPaws": "1014"
+      }
+    },
+    "appenzell-mountain-dog": {
+      "label": "Appenzell Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Appenzell Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Appenzell%20Mountain%20Dog",
+        "HealthyPaws": "1240"
+      }
+    },
+    "argentine-dogo": {
+      "label": "Argentine Dogo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Argentine Dogo",
+        "Pumpkin": "Dog~PureBreed~Dogo%20Argentino",
+        "HealthyPaws": "1368"
+      }
+    },
+    "ariegoeis": {
+      "label": "Ariegoeis",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ariegoeis",
+        "Pumpkin": "Dog~PureBreed~Ariegeois",
+        "HealthyPaws": "1242"
+      }
+    },
+    "australian-cattle-dog": {
+      "label": "Australian Cattle Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Australian Cattle Dog",
+        "Pumpkin": "Dog~PureBreed~Australian%20Cattle%20Dog",
+        "HealthyPaws": "1015"
+      }
+    },
+    "australian-kelpie": {
+      "label": "Australian Kelpie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Australian Kelpie",
+        "Pumpkin": "Dog~PureBreed~Australian%20Kelpie",
+        "HealthyPaws": "1243"
+      }
+    },
+    "australian-shepherd": {
+      "label": "Australian Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Australian Shepherd",
+        "Pumpkin": "Dog~PureBreed~Australian%20Shepherd",
+        "HealthyPaws": "1016"
+      }
+    },
+    "australian-shepherd-miniature": {
+      "label": "Australian Shepherd - miniature",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Australian Shepherd -miniature",
+        "Pumpkin": "Dog~Mixed~Australian%20Shepherd%20Mix",
+        "HealthyPaws": "1370"
+      }
+    },
+    "australian-terrier": {
+      "label": "Australian Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Australian Terrier",
+        "Pumpkin": "Dog~PureBreed~Australian%20Terrier",
+        "HealthyPaws": "1017"
+      }
+    },
+    "austrian-brandlbracke": {
+      "label": "Austrian Brandlbracke",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Austrian Brandlbracke",
+        "Pumpkin": "Dog~PureBreed~Steinbracke",
+        "HealthyPaws": "1371"
+      }
+    },
+    "austrian-shorthaired-pinscher": {
+      "label": "Austrian Shorthaired Pinscher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Austrian Shorthaired Pinscher",
+        "Pumpkin": "Dog~PureBreed~Austrian%20Short%20Haired%20Pinscher",
+        "HealthyPaws": "1245"
+      }
+    },
+    "azawakh": {
+      "label": "Azawakh",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Azawakh",
+        "Pumpkin": "Dog~PureBreed~Azawakh%20Hound",
+        "HealthyPaws": "1372"
+      }
+    },
+    "barbet": {
+      "label": "Barbet",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Barbet",
+        "Pumpkin": "Dog~PureBreed~Barbet",
+        "HealthyPaws": "1249"
+      }
+    },
+    "basenji": {
+      "label": "Basenji",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Basenji",
+        "Pumpkin": "Dog~PureBreed~Basenji",
+        "HealthyPaws": "1018"
+      }
+    },
+    "basset-artesien-normand": {
+      "label": "Basset Artesien Normand",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Basset Artesien Normand",
+        "Pumpkin": "Dog~PureBreed~Basset%20Artesien%20Normand",
+        "HealthyPaws": "1250"
+      }
+    },
+    "basset-bleu-de-gascogne": {
+      "label": "Basset Bleu De Gascogne",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Basset Bleu De Gascogne",
+        "Pumpkin": "Dog~PureBreed~Small%20Blue%20Gascony%20Griffon",
+        "HealthyPaws": "1375"
+      }
+    },
+    "basset-fauve-de-bretagne": {
+      "label": "Basset Fauve De Bretagne",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Basset Fauve De Bretagne",
+        "Pumpkin": "Dog~PureBreed~Basset%20Artesien%20Normand",
+        "HealthyPaws": "1376"
+      }
+    },
+    "basset-hound": {
+      "label": "Basset Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Basset Hound",
+        "Pumpkin": "Dog~PureBreed~Basset%20Hound",
+        "HealthyPaws": "1019"
+      }
+    },
+    "beagle": {
+      "label": "Beagle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Beagle",
+        "Pumpkin": "Dog~PureBreed~Beagle",
+        "HealthyPaws": "1020"
+      }
+    },
+    "bearded-collie": {
+      "label": "Bearded Collie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bearded Collie",
+        "Pumpkin": "Dog~PureBreed~Bearded%20Collie",
+        "HealthyPaws": "1021"
+      }
+    },
+    "beauceron": {
+      "label": "Beauceron",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Beauceron",
+        "Pumpkin": "Dog~PureBreed~Beauceron",
+        "HealthyPaws": "1022"
+      }
+    },
+    "bedlington-terrier": {
+      "label": "Bedlington Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bedlington Terrier",
+        "Pumpkin": "Dog~PureBreed~Bedlington%20Terrier",
+        "HealthyPaws": "1023"
+      }
+    },
+    "belgian-shepherd-groenendael": {
+      "label": "Belgian Shepherd Groenendael",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Belgian Shepherd Groenendael",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Sheepdog",
+        "HealthyPaws": "1257"
+      }
+    },
+    "belgian-shepherd-laekenois": {
+      "label": "Belgian Shepherd Laekenois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Belgian Shepherd Laekenois",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Sheepdog",
+        "HealthyPaws": "1257"
+      }
+    },
+    "belgian-shepherd-malinois": {
+      "label": "Belgian Shepherd Malinois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Belgian Shepherd Malinois",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Malinois",
+        "HealthyPaws": "1257"
+      }
+    },
+    "belgian-shepherd-tervuren": {
+      "label": "Belgian Shepherd Tervuren",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Belgian Shepherd Tervuren",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Tervuren",
+        "HealthyPaws": "1258"
+      }
+    },
+    "bergamasco": {
+      "label": "Bergamasco",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bergamasco",
+        "Pumpkin": "Dog~PureBreed~Bergamasco",
+        "HealthyPaws": "1379"
+      }
+    },
+    "berger-des-pyrenees": {
+      "label": "Berger des Pyrenees",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Berger des Pyrenees",
+        "Pumpkin": "Dog~PureBreed~Berger%20De%20Bresse",
+        "HealthyPaws": "1381"
+      }
+    },
+    "berger-picard": {
+      "label": "Berger Picard",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Berger Picard",
+        "Pumpkin": "Dog~PureBreed~Briard",
+        "HealthyPaws": "1382"
+      }
+    },
+    "bernese-mountain-dog": {
+      "label": "Bernese Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bernese Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Bernese%20Mountain%20Dog",
+        "HealthyPaws": "1027"
+      }
+    },
+    "bichon-frise": {
+      "label": "Bichon Frise",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bichon Frise",
+        "Pumpkin": "Dog~PureBreed~Bichon%20Frise",
+        "HealthyPaws": "1028"
+      }
+    },
+    "biewer": {
+      "label": "Biewer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Biewer",
+        "Pumpkin": "Dog~PureBreed~Biewer%20Terrier",
+        "HealthyPaws": "1386"
+      }
+    },
+    "black-mouth-cur": {
+      "label": "Black Mouth Cur",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Black Mouth Cur",
+        "Pumpkin": "Dog~PureBreed~Black%20Mouth%20Cur",
+        "HealthyPaws": "1261"
+      }
+    },
+    "black-russian-terrier": {
+      "label": "Black Russian Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Black Russian Terrier",
+        "Pumpkin": "Dog~PureBreed~Black%20Russian%20Terrier",
+        "HealthyPaws": "1030"
+      }
+    },
+    "bloodhound": {
+      "label": "Bloodhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bloodhound",
+        "Pumpkin": "Dog~PureBreed~Bloodhound",
+        "HealthyPaws": "1032"
+      }
+    },
+    "blue-heeler": {
+      "label": "Blue Heeler",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Blue Heeler",
+        "Pumpkin": "Dog~PureBreed~Lancashire%20Heeler",
+        "HealthyPaws": "1033"
+      }
+    },
+    "blue-lacy": {
+      "label": "Blue Lacy",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Blue Lacy",
+        "Pumpkin": "Dog~PureBreed~Blue%20Lacy",
+        "HealthyPaws": "1387"
+      }
+    },
+    "bluetick-coonhound": {
+      "label": "Bluetick Coonhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bluetick Coonhound",
+        "Pumpkin": "Dog~PureBreed~Bluetick%20Coonhound",
+        "HealthyPaws": "1262"
+      }
+    },
+    "boerboel": {
+      "label": "Boerboel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Boerboel",
+        "Pumpkin": "Dog~PureBreed~Boerboel",
+        "HealthyPaws": "1034"
+      }
+    },
+    "bolognese": {
+      "label": "Bolognese",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bolognese",
+        "Pumpkin": "Dog~PureBreed~Bolognese",
+        "HealthyPaws": "1035"
+      }
+    },
+    "bolonka": {
+      "label": "Bolonka",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bolonka",
+        "Pumpkin": "Dog~PureBreed~Russian%20Tsvetnaya%20Bolonka",
+        "HealthyPaws": "1389"
+      }
+    },
+    "border-collie": {
+      "label": "Border Collie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Border Collie",
+        "Pumpkin": "Dog~PureBreed~Border%20Collie",
+        "HealthyPaws": "1036"
+      }
+    },
+    "border-terrier": {
+      "label": "Border Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Border Terrier",
+        "Pumpkin": "Dog~PureBreed~Border%20Terrier",
+        "HealthyPaws": "1037"
+      }
+    },
+    "borzoi": {
+      "label": "Borzoi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Borzoi",
+        "Pumpkin": "Dog~PureBreed~Borzoi",
+        "HealthyPaws": "1038"
+      }
+    },
+    "bosnian-coarse-haired-hound": {
+      "label": "Bosnian Coarse Haired Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bosnian Coarse Haired Hound",
+        "Pumpkin": "Dog~PureBreed~Bosnian%20Coarse-haired%20Hound",
+        "HealthyPaws": "1390"
+      }
+    },
+    "boston-terrier": {
+      "label": "Boston Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Boston Terrier",
+        "Pumpkin": "Dog~PureBreed~Boston%20Terrier",
+        "HealthyPaws": "1039"
+      }
+    },
+    "bouvier-des-flandres": {
+      "label": "Bouvier Des Flandres",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bouvier Des Flandres",
+        "Pumpkin": "Dog~PureBreed~Bouvier%20Des%20Flandres",
+        "HealthyPaws": "1392"
+      }
+    },
+    "boxer": {
+      "label": "Boxer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Boxer",
+        "Pumpkin": "Dog~PureBreed~Boxer",
+        "HealthyPaws": "1041"
+      }
+    },
+    "boykin-spaniel": {
+      "label": "Boykin Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Boykin Spaniel",
+        "Pumpkin": "Dog~PureBreed~Boykin%20Spaniel",
+        "HealthyPaws": "1042"
+      }
+    },
+    "bracco-italiano": {
+      "label": "Bracco Italiano",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bracco Italiano",
+        "Pumpkin": "Dog~PureBreed~Brazilian%20Tracker",
+        "HealthyPaws": "1043"
+      }
+    },
+    "braque-d-auvergne": {
+      "label": "Braque d Auvergne",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Braque dAuvergne",
+        "Pumpkin": "Dog~PureBreed~Braque%20Saint-Germain",
+        "HealthyPaws": "1393"
+      }
+    },
+    "braque-du-bourbonnais": {
+      "label": "Braque du Bourbonnais",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Braque du Bourbonnais",
+        "Pumpkin": "Dog~PureBreed~Braque%20Du%20Bourbonnais",
+        "HealthyPaws": "1265"
+      }
+    },
+    "braque-francais": {
+      "label": "Braque Francais",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Braque Francais",
+        "Pumpkin": "Dog~PureBreed~Braque%20Saint-Germain",
+        "HealthyPaws": "1266"
+      }
+    },
+    "brazilian-fila": {
+      "label": "Brazilian Fila",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Brazilian Fila",
+        "Pumpkin": "Dog~PureBreed~Brazilian%20Tracker",
+        "HealthyPaws": "1394"
+      }
+    },
+    "brazilian-terrier": {
+      "label": "Brazilian Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Brazilian Terrier",
+        "Pumpkin": "Dog~PureBreed~Australian%20Terrier",
+        "HealthyPaws": "1395"
+      }
+    },
+    "briard": {
+      "label": "Briard",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Briard",
+        "Pumpkin": "Dog~PureBreed~Briard",
+        "HealthyPaws": "1044"
+      }
+    },
+    "briquet-griffon-vendeen": {
+      "label": "Briquet Griffon Vendeen",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Briquet Griffon Vendeen",
+        "Pumpkin": "Dog~PureBreed~Briquet%20Griffon%20Vendeen",
+        "HealthyPaws": "1251"
+      }
+    },
+    "brittany": {
+      "label": "Brittany",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Brittany",
+        "Pumpkin": "Dog~PureBreed~Brittany",
+        "HealthyPaws": "1396"
+      }
+    },
+    "brussels-griffon": {
+      "label": "Brussels Griffon",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Brussels Griffon",
+        "Pumpkin": "Dog~PureBreed~Brussels%20Griffon",
+        "HealthyPaws": "1046"
+      }
+    },
+    "bull-terrier": {
+      "label": "Bull Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bull Terrier",
+        "Pumpkin": "Dog~PureBreed~Bull%20Terrier",
+        "HealthyPaws": "1047"
+      }
+    },
+    "bull-terrier-miniature": {
+      "label": "Bull Terrier - miniature",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bull Terrier -miniature",
+        "Pumpkin": "Dog~PureBreed~Bull%20Terrier",
+        "HealthyPaws": "1399"
+      }
+    },
+    "bulldog": {
+      "label": "Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bulldog",
+        "Pumpkin": "Dog~PureBreed~Bulldog",
+        "HealthyPaws": "1401"
+      }
+    },
+    "bullmastiff": {
+      "label": "Bullmastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Bullmastiff",
+        "Pumpkin": "Dog~PureBreed~Bullmastiff",
+        "HealthyPaws": "1049"
+      }
+    },
+    "ca-de-bou": {
+      "label": "Ca de Bou",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ca de Bou",
+        "Pumpkin": "Dog~PureBreed~Dogue%20De%20Bordeaux",
+        "HealthyPaws": "1403"
+      }
+    },
+    "cairn-terrier": {
+      "label": "Cairn Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cairn Terrier",
+        "Pumpkin": "Dog~PureBreed~Cairn%20Terrier",
+        "HealthyPaws": "1050"
+      }
+    },
+    "canaan-dog": {
+      "label": "Canaan Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Canaan Dog",
+        "Pumpkin": "Dog~PureBreed~Canaan%20Dog",
+        "HealthyPaws": "1051"
+      }
+    },
+    "canadian-eskimo-dog": {
+      "label": "Canadian Eskimo Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Canadian Eskimo Dog",
+        "Pumpkin": "Dog~PureBreed~American%20Eskimo%20Dog",
+        "HealthyPaws": "1405"
+      }
+    },
+    "canary-dog": {
+      "label": "Canary Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Canary Dog",
+        "Pumpkin": "Dog~PureBreed~Canaan%20Dog",
+        "HealthyPaws": "1052"
+      }
+    },
+    "cane-corso": {
+      "label": "Cane Corso",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cane Corso",
+        "Pumpkin": "Dog~PureBreed~Cane%20Corso",
+        "HealthyPaws": "1053"
+      }
+    },
+    "cao-de-fila-de-sao-miguel": {
+      "label": "Cao de Fila de Sao Miguel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cao de Fila de Sao Miguel",
+        "Pumpkin": "Dog~Mixed~Coton%20De%20Tulear%20Mix",
+        "HealthyPaws": "1406"
+      }
+    },
+    "cardigan-welsh-corgi": {
+      "label": "Cardigan Welsh Corgi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cardigan Welsh Corgi",
+        "Pumpkin": "Dog~PureBreed~Cardigan%20Welsh%20Corgi",
+        "HealthyPaws": "1054"
+      }
+    },
+    "carolina-dog": {
+      "label": "Carolina Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Carolina Dog",
+        "Pumpkin": "Dog~PureBreed~Carolina%20Dog",
+        "HealthyPaws": "1407"
+      }
+    },
+    "catahoula-leopard-dog": {
+      "label": "Catahoula Leopard Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Catahoula Leopard Dog",
+        "Pumpkin": "Dog~PureBreed~Catahoula%20Leopard",
+        "HealthyPaws": "1055"
+      }
+    },
+    "caucasian-ovtcharka": {
+      "label": "Caucasian Ovtcharka",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Caucasian Ovtcharka",
+        "Pumpkin": "Dog~PureBreed~Caucasian%20Ovcharka",
+        "HealthyPaws": "1409"
+      }
+    },
+    "cavalier-king-charles-spaniel": {
+      "label": "Cavalier King Charles Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cavalier King Charles Spaniel",
+        "Pumpkin": "Dog~PureBreed~Cavalier%20King%20Charles%20Spaniel",
+        "HealthyPaws": "1057"
+      }
+    },
+    "central-asian-ovtcharka": {
+      "label": "Central Asian Ovtcharka",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Central Asian Ovtcharka",
+        "Pumpkin": "Dog~PureBreed~Caucasian%20Ovcharka",
+        "HealthyPaws": "1411"
+      }
+    },
+    "cesky-fousek": {
+      "label": "Cesky Fousek",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cesky Fousek",
+        "Pumpkin": "Dog~PureBreed~Cesky%20Terrier",
+        "HealthyPaws": "1412"
+      }
+    },
+    "cesky-terrier": {
+      "label": "Cesky Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cesky Terrier",
+        "Pumpkin": "Dog~PureBreed~Cesky%20Terrier",
+        "HealthyPaws": "1058"
+      }
+    },
+    "chasa-apso": {
+      "label": "Chasa Apso",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chasa Apso",
+        "Pumpkin": "Dog~PureBreed~Lhasa%20Apso",
+        "HealthyPaws": "1413"
+      }
+    },
+    "chesapeake-bay-retriever": {
+      "label": "Chesapeake Bay Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chesapeake BayRetriever",
+        "Pumpkin": "Dog~PureBreed~Chesapeake%20Bay%20Retriever",
+        "HealthyPaws": "1059"
+      }
+    },
+    "chien-d-artois": {
+      "label": "Chien D'Artois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chien D Artois",
+        "Pumpkin": "Dog~PureBreed~Schapendoes",
+        "HealthyPaws": "1414"
+      }
+    },
+    "chihuahua": {
+      "label": "Chihuahua",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chihuahua",
+        "Pumpkin": "Dog~PureBreed~Chihuahua",
+        "HealthyPaws": "1060"
+      }
+    },
+    "chihuahua-long-haired": {
+      "label": "Chihuahua long-haired",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chihuahua long-haired",
+        "Pumpkin": "Dog~PureBreed~Chihuahua",
+        "HealthyPaws": "1060"
+      }
+    },
+    "chinese-chongqing-dog": {
+      "label": "Chinese Chongqing Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Chongqing Dog",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Chongqing",
+        "HealthyPaws": "1415"
+      }
+    },
+    "chinese-crested-dog": {
+      "label": "Chinese Crested Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Crested Dog",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Crested%20Dog",
+        "HealthyPaws": "1061"
+      }
+    },
+    "chinese-crested-hairless": {
+      "label": "Chinese Crested Hairless",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Crested Hairless",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Crested%20Dog",
+        "HealthyPaws": "1061"
+      }
+    },
+    "chinese-crested-powder-puff": {
+      "label": "Chinese Crested Powder Puff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Crested Powder Puff",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Crested%20Dog",
+        "HealthyPaws": "1061"
+      }
+    },
+    "chinese-foo": {
+      "label": "Chinese Foo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Foo",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Chongqing",
+        "HealthyPaws": "1416"
+      }
+    },
+    "chinese-imperial": {
+      "label": "Chinese Imperial",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinese Imperial",
+        "Pumpkin": "Dog~PureBreed~Chinese%20Imperial",
+        "HealthyPaws": "1417"
+      }
+    },
+    "chinook": {
+      "label": "Chinook",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chinook",
+        "Pumpkin": "Dog~PureBreed~Chinook",
+        "HealthyPaws": "1062"
+      }
+    },
+    "chow-chow": {
+      "label": "Chow Chow",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Chow Chow",
+        "Pumpkin": "Dog~PureBreed~Chow%20Chow",
+        "HealthyPaws": "1063"
+      }
+    },
+    "cirneco-dell-etna": {
+      "label": "Cirneco dell Etna",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cirneco dellEtna",
+        "Pumpkin": "Dog~PureBreed~Cirneco%20Dell'etna",
+        "HealthyPaws": "1419"
+      }
+    },
+    "clumber-spaniel": {
+      "label": "Clumber Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Clumber Spaniel",
+        "Pumpkin": "Dog~PureBreed~Clumber%20Spaniel",
+        "HealthyPaws": "1064"
+      }
+    },
+    "cockapoo": {
+      "label": "Cockapoo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cocker Spaniel",
+        "Pumpkin": "Dog~Mixed~Cockapoo",
+        "HealthyPaws": "172"
+      }
+    },
+    "cocker-spaniel": {
+      "label": "Cocker Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cocker Spaniel",
+        "Pumpkin": "Dog~PureBreed~Cocker%20Spaniel",
+        "HealthyPaws": "1278"
+      }
+    },
+    "cocker-spaniel-miniature": {
+      "label": "Cocker Spaniel Miniature",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Cocker Spaniel Miniature",
+        "Pumpkin": "Dog~Mixed~Cocker%20Spaniel%20Mix",
+        "HealthyPaws": "173"
+      }
+    },
+    "collie": {
+      "label": "Collie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Collie",
+        "Pumpkin": "Dog~PureBreed~Collie",
+        "HealthyPaws": "1065"
+      }
+    },
+    "collie-smooth-coated": {
+      "label": "Collie smooth-coated",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Collie smooth-coated",
+        "Pumpkin": "Dog~PureBreed~Curly-Coated%20Retriever",
+        "HealthyPaws": "1068"
+      }
+    },
+    "coonhound-black-and-tan": {
+      "label": "Coonhound - black and tan",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Coonhound -black and tan",
+        "Pumpkin": "Dog~PureBreed~Black%20And%20Tan%20Coonhound",
+        "HealthyPaws": "1029"
+      }
+    },
+    "coonhound-blue-tick": {
+      "label": "Coonhound - blue tick",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Coonhound -blue tick",
+        "Pumpkin": null,
+        "HealthyPaws": "1066"
+      }
+    },
+    "coonhound-red-bone": {
+      "label": "Coonhound - red bone",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Coonhound -red bone",
+        "Pumpkin": "Dog~PureBreed~Coon%20Hound",
+        "HealthyPaws": "1066"
+      }
+    },
+    "corgi": {
+      "label": "Corgi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Corgi",
+        "Pumpkin": "Dog~Mixed~Corgi%20Mix",
+        "HealthyPaws": "1421"
+      }
+    },
+    "coton-de-tulear": {
+      "label": "Coton De Tulear",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Coton De Tulear",
+        "Pumpkin": "Dog~PureBreed~Coton%20De%20Tulear",
+        "HealthyPaws": "1067"
+      }
+    },
+    "curly-coated-retriever": {
+      "label": "Curly-Coated Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Curly-Coated Retriever",
+        "Pumpkin": "Dog~PureBreed~Curly-Coated%20Retriever",
+        "HealthyPaws": "1068"
+      }
+    },
+    "czechoslovakian-wolfdog-vlcak": {
+      "label": "Czechoslovakian Wolfdog (Vlcak)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Czechoslovakian Wolfdog (Vlcak)",
+        "Pumpkin": null,
+        "HealthyPaws": "1279"
+      }
+    },
+    "dachshund": {
+      "label": "Dachshund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund",
+        "Pumpkin": "Dog~PureBreed~Dachshund",
+        "HealthyPaws": "1069"
+      }
+    },
+    "dachshund-long-haired": {
+      "label": "Dachshund - long haired",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund -long haired",
+        "Pumpkin": "Dog~Mixed~Dachshund%20Mix",
+        "HealthyPaws": "178"
+      }
+    },
+    "dachshund-miniature-long-haired": {
+      "label": "Dachshund miniature - long haired",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund miniature -long haired",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Yorkshire%20Terrier",
+        "HealthyPaws": "1142"
+      }
+    },
+    "dachshund-miniature-smooth-coat": {
+      "label": "Dachshund miniature - smooth coat",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund miniature -smooth coat",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Schnauzer",
+        "HealthyPaws": "1144"
+      }
+    },
+    "dachshund-miniature-wire-haired": {
+      "label": "Dachshund miniature - wire haired",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund miniature -wire haired",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Yorkshire%20Terrier",
+        "HealthyPaws": "1142"
+      }
+    },
+    "dachshund-smooth-coat": {
+      "label": "Dachshund - smooth coat",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund -smooth coat",
+        "Pumpkin": "Dog~Mixed~Dachshund%20Mix",
+        "HealthyPaws": "178"
+      }
+    },
+    "dachshund-wire-haired": {
+      "label": "Dachshund - wire haired",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dachshund -wire haired",
+        "Pumpkin": "Dog~Mixed~Dachshund%20Mix",
+        "HealthyPaws": "178"
+      }
+    },
+    "dalmatian": {
+      "label": "Dalmatian",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dalmatian",
+        "Pumpkin": "Dog~PureBreed~Dalmatian",
+        "HealthyPaws": "1070"
+      }
+    },
+    "dandie-dinmont-terrier": {
+      "label": "Dandie Dinmont Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dandie Dinmont Terrier",
+        "Pumpkin": "Dog~PureBreed~Dandie%20Dinmont%20Terrier",
+        "HealthyPaws": "1071"
+      }
+    },
+    "danish-swedish-farmdog": {
+      "label": "Danish-Swedish Farmdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Danish-Swedish Farmdog",
+        "Pumpkin": "Dog~PureBreed~Danish-Swedish%20Farmdog",
+        "HealthyPaws": "1423"
+      }
+    },
+    "deerhound": {
+      "label": "Deerhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Deerhound",
+        "Pumpkin": "Dog~PureBreed~Scottish%20Deerhound",
+        "HealthyPaws": "1281"
+      }
+    },
+    "deutsch-drahthaar": {
+      "label": "Deutsch Drahthaar",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Deutsch Drahthaar",
+        "Pumpkin": "Dog~PureBreed~Dutch%20Shepherd",
+        "HealthyPaws": "1424"
+      }
+    },
+    "deutscher-wachtelhund": {
+      "label": "Deutscher Wachtelhund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Deutscher Wachtelhund",
+        "Pumpkin": "Dog~PureBreed~Dutch%20Shepherd",
+        "HealthyPaws": "1425"
+      }
+    },
+    "doberman-pinscher": {
+      "label": "Doberman Pinscher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Doberman Pinscher",
+        "Pumpkin": "Dog~PureBreed~Doberman%20Pinscher",
+        "HealthyPaws": "1072"
+      }
+    },
+    "dogo-argentino": {
+      "label": "Dogo Argentino",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dogo Argentino",
+        "Pumpkin": "Dog~PureBreed~Dogo%20Argentino",
+        "HealthyPaws": "1427"
+      }
+    },
+    "dogue-de-bordeaux": {
+      "label": "Dogue De Bordeaux",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dogue De Bordeaux",
+        "Pumpkin": "Dog~PureBreed~Dogue%20De%20Bordeaux",
+        "HealthyPaws": "1073"
+      }
+    },
+    "drever": {
+      "label": "Drever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Drever",
+        "Pumpkin": "Dog~PureBreed~Drever",
+        "HealthyPaws": "1430"
+      }
+    },
+    "dunker": {
+      "label": "Dunker",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dunker",
+        "Pumpkin": "Dog~PureBreed~Dunker",
+        "HealthyPaws": "1431"
+      }
+    },
+    "dutch-sheepdog": {
+      "label": "Dutch Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dutch Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Dutch%20Shepherd",
+        "HealthyPaws": "1432"
+      }
+    },
+    "dutch-shepherd": {
+      "label": "Dutch Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dutch Shepherd",
+        "Pumpkin": "Dog~PureBreed~Dutch%20Shepherd",
+        "HealthyPaws": "1433"
+      }
+    },
+    "dutch-smoushond": {
+      "label": "Dutch Smoushond",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Dutch Smoushond",
+        "Pumpkin": "Dog~PureBreed~Dutch%20Shepherd",
+        "HealthyPaws": "1434"
+      }
+    },
+    "elkhound": {
+      "label": "Elkhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Elkhound",
+        "Pumpkin": "Dog~PureBreed~Elkhound",
+        "HealthyPaws": "1283"
+      }
+    },
+    "english-bulldog": {
+      "label": "English Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Bulldog",
+        "Pumpkin": "Dog~PureBreed~English%20Bulldog",
+        "HealthyPaws": "1074"
+      }
+    },
+    "english-cocker-spaniel": {
+      "label": "English Cocker Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Cocker Spaniel",
+        "Pumpkin": "Dog~PureBreed~English%20Cocker%20Spaniel",
+        "HealthyPaws": "1075"
+      }
+    },
+    "english-coonhound": {
+      "label": "English Coonhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Coonhound",
+        "Pumpkin": "Dog~PureBreed~English%20Coonhound",
+        "HealthyPaws": "1076"
+      }
+    },
+    "english-foxhound": {
+      "label": "English Foxhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Foxhound",
+        "Pumpkin": "Dog~PureBreed~English%20Foxhound",
+        "HealthyPaws": "1077"
+      }
+    },
+    "english-mastiff": {
+      "label": "English Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Mastiff",
+        "Pumpkin": "Dog~PureBreed~English%20Mastiff",
+        "HealthyPaws": "1078"
+      }
+    },
+    "english-pointer": {
+      "label": "English Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Pointer",
+        "Pumpkin": "Dog~PureBreed~Spanish%20Pointer",
+        "HealthyPaws": "1285"
+      }
+    },
+    "english-setter": {
+      "label": "English Setter",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Setter",
+        "Pumpkin": "Dog~PureBreed~English%20Setter",
+        "HealthyPaws": "1079"
+      }
+    },
+    "english-shepherd": {
+      "label": "English Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Shepherd",
+        "Pumpkin": "Dog~PureBreed~English%20Shepherd",
+        "HealthyPaws": "1438"
+      }
+    },
+    "english-springer-spaniel": {
+      "label": "English Springer Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Springer Spaniel",
+        "Pumpkin": "Dog~PureBreed~English%20Springer%20Spaniel",
+        "HealthyPaws": "1080"
+      }
+    },
+    "english-toy-spaniel": {
+      "label": "English Toy Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Toy Spaniel",
+        "Pumpkin": "Dog~PureBreed~English%20Toy%20Spaniel",
+        "HealthyPaws": "1081"
+      }
+    },
+    "english-toy-terrier": {
+      "label": "English Toy Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~English Toy Terrier",
+        "Pumpkin": "Dog~PureBreed~English%20Toy%20Terrier",
+        "HealthyPaws": "1287"
+      }
+    },
+    "entlebucher-mountain-dog": {
+      "label": "Entlebucher Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Entlebucher Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Entlebuch%20Mountain%20Dog",
+        "HealthyPaws": "1288"
+      }
+    },
+    "eskimo-dog": {
+      "label": "Eskimo Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Eskimo Dog",
+        "Pumpkin": "Dog~PureBreed~American%20Eskimo%20Dog",
+        "HealthyPaws": "1289"
+      }
+    },
+    "estonian-hound": {
+      "label": "Estonian Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Estonian Hound",
+        "Pumpkin": "Dog~PureBreed~Estonian%20Hound",
+        "HealthyPaws": "1440"
+      }
+    },
+    "estrela-mountain-dog": {
+      "label": "Estrela Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Estrela Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Estrela%20Mountain%20Dog",
+        "HealthyPaws": "1441"
+      }
+    },
+    "eurasier": {
+      "label": "Eurasier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Eurasier",
+        "Pumpkin": "Dog~PureBreed~Eurasier",
+        "HealthyPaws": "1290"
+      }
+    },
+    "fell-terrier": {
+      "label": "Fell Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Fell Terrier",
+        "Pumpkin": "Dog~PureBreed~Fell%20Terrier",
+        "HealthyPaws": "1291"
+      }
+    },
+    "field-spaniel": {
+      "label": "Field Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Field Spaniel",
+        "Pumpkin": "Dog~PureBreed~Field%20Spaniel",
+        "HealthyPaws": "1082"
+      }
+    },
+    "fila-brasileiro": {
+      "label": "Fila Brasileiro",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Fila Brasileiro",
+        "Pumpkin": "Dog~PureBreed~Fila%20Brasileiro",
+        "HealthyPaws": "1292"
+      }
+    },
+    "finnish-hound": {
+      "label": "Finnish Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Finnish Hound",
+        "Pumpkin": "Dog~PureBreed~Finnish%20Hound",
+        "HealthyPaws": "1083"
+      }
+    },
+    "finnish-lapphund": {
+      "label": "Finnish Lapphund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Finnish Lapphund",
+        "Pumpkin": "Dog~PureBreed~Finnish%20Lapphund",
+        "HealthyPaws": "1084"
+      }
+    },
+    "finnish-spitz": {
+      "label": "Finnish Spitz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Finnish Spitz",
+        "Pumpkin": "Dog~PureBreed~Finnish%20Spitz",
+        "HealthyPaws": "1293"
+      }
+    },
+    "flat-coated-retriever": {
+      "label": "Flat-coated Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Flat-coated Retriever",
+        "Pumpkin": "Dog~PureBreed~Flat-coated%20Retriever",
+        "HealthyPaws": "1085"
+      }
+    },
+    "fox-hound": {
+      "label": "Fox Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Fox Hound",
+        "Pumpkin": "Dog~PureBreed~English%20Foxhound",
+        "HealthyPaws": "1077"
+      }
+    },
+    "fox-terrier": {
+      "label": "Fox Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Fox Terrier",
+        "Pumpkin": "Dog~PureBreed~Toy%20Fox%20Terrier",
+        "HealthyPaws": "1086"
+      }
+    },
+    "french-bulldog": {
+      "label": "French Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~French Bulldog",
+        "Pumpkin": "Dog~PureBreed~French%20Bulldog",
+        "HealthyPaws": "1087"
+      }
+    },
+    "french-mastiff": {
+      "label": "French Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~French Mastiff",
+        "Pumpkin": "Dog~PureBreed~Pyrenean%20Mastiff",
+        "HealthyPaws": "1088"
+      }
+    },
+    "french-spaniel": {
+      "label": "French Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~French Spaniel",
+        "Pumpkin": "Dog~PureBreed~French%20Spaniel",
+        "HealthyPaws": "1089"
+      }
+    },
+    "gazelle-hound": {
+      "label": "Gazelle Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Gazelle Hound",
+        "Pumpkin": "Dog~PureBreed~Elkhound",
+        "HealthyPaws": "1447"
+      }
+    },
+    "german-longhaired-pointer": {
+      "label": "German Longhaired Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Longhaired Pointer",
+        "Pumpkin": "Dog~PureBreed~German%20Shorthaired%20Pointer",
+        "HealthyPaws": "1092"
+      }
+    },
+    "german-pinscher": {
+      "label": "German Pinscher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Pinscher",
+        "Pumpkin": "Dog~PureBreed~German%20Pinscher",
+        "HealthyPaws": "1090"
+      }
+    },
+    "german-shepherd": {
+      "label": "German Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Shepherd",
+        "Pumpkin": "Dog~PureBreed~German%20Shepherd",
+        "HealthyPaws": "1091"
+      }
+    },
+    "german-shorthaired-pointer": {
+      "label": "German Shorthaired Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Shorthaired Pointer",
+        "Pumpkin": "Dog~PureBreed~German%20Shorthaired%20Pointer",
+        "HealthyPaws": "1092"
+      }
+    },
+    "german-spitz": {
+      "label": "German Spitz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Spitz",
+        "Pumpkin": "Dog~PureBreed~German%20Spitz",
+        "HealthyPaws": "1296"
+      }
+    },
+    "german-wirehaired-pointer": {
+      "label": "German Wirehaired Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~German Wirehaired Pointer",
+        "Pumpkin": "Dog~PureBreed~German%20Wirehaired%20Pointer",
+        "HealthyPaws": "1093"
+      }
+    },
+    "giant-schnauzer": {
+      "label": "Giant Schnauzer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Giant Schnauzer",
+        "Pumpkin": "Dog~PureBreed~Giant%20Schnauzer",
+        "HealthyPaws": "1094"
+      }
+    },
+    "glen-of-imaal-terrier": {
+      "label": "Glen Of Imaal Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Glen Of Imaal Terrier",
+        "Pumpkin": "Dog~PureBreed~Glen%20Of%20Imaal%20Terrier",
+        "HealthyPaws": "1095"
+      }
+    },
+    "golden-retriever": {
+      "label": "Golden Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Golden Retriever",
+        "Pumpkin": "Dog~PureBreed~Golden%20Retriever",
+        "HealthyPaws": "1096"
+      }
+    },
+    "goldendoodle": {
+      "label": "Goldendoodle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Goldendoodle",
+        "Pumpkin": "Dog~Mixed~Goldendoodle",
+        "HealthyPaws": "180"
+      }
+    },
+    "gordon-setter": {
+      "label": "Gordon Setter",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Gordon Setter",
+        "Pumpkin": "Dog~PureBreed~Gordon%20Setter",
+        "HealthyPaws": "1097"
+      }
+    },
+    "gran-mastin-de-borinquen": {
+      "label": "Gran Mastin de Borinquen",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Gran Mastin de Borinquen",
+        "Pumpkin": "Dog~PureBreed~Grand%20Gascon-Saintongeois",
+        "HealthyPaws": "1448"
+      }
+    },
+    "grand-basset-griffon-vendeen": {
+      "label": "Grand Basset Griffon Vendeen",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Grand Basset Griffon Vendeen",
+        "Pumpkin": "Dog~PureBreed~Grand%20Basset%20Griffon%20Vendeen",
+        "HealthyPaws": "1297"
+      }
+    },
+    "grand-bleu-de-gascogne": {
+      "label": "Grand Bleu de Gascogne",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Grand Bleu de Gascogne",
+        "Pumpkin": "Dog~PureBreed~Grand%20Gascon-Saintongeois",
+        "HealthyPaws": "1449"
+      }
+    },
+    "great-dane": {
+      "label": "Great Dane",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Great Dane",
+        "Pumpkin": "Dog~PureBreed~Great%20Dane",
+        "HealthyPaws": "1098"
+      }
+    },
+    "great-pyrenean": {
+      "label": "Great Pyrenean",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Great Pyrenean",
+        "Pumpkin": "Dog~PureBreed~Great%20Pyrenees",
+        "HealthyPaws": "1099"
+      }
+    },
+    "great-pyrenees": {
+      "label": "Great Pyrenees",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Great Pyrenees",
+        "Pumpkin": "Dog~PureBreed~Great%20Pyrenees",
+        "HealthyPaws": "1099"
+      }
+    },
+    "greater-swiss-mountain-dog": {
+      "label": "Greater Swiss Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Greater Swiss Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Greater%20Swiss%20Mountain%20Dog",
+        "HealthyPaws": "1100"
+      }
+    },
+    "greenland-dog": {
+      "label": "Greenland Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Greenland Dog",
+        "Pumpkin": "Dog~PureBreed~Greenland%20Dog",
+        "HealthyPaws": "1299"
+      }
+    },
+    "greyhound": {
+      "label": "Greyhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Greyhound",
+        "Pumpkin": "Dog~PureBreed~Greyhound",
+        "HealthyPaws": "1101"
+      }
+    },
+    "griffon-bruxellois": {
+      "label": "Griffon Bruxellois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Griffon Bruxellois",
+        "Pumpkin": "Dog~PureBreed~American%20Bulldog",
+        "HealthyPaws": "1453"
+      }
+    },
+    "groenendael": {
+      "label": "Groenendael",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Groenendael",
+        "Pumpkin": "Dog~Mixed~Goldendoodle",
+        "HealthyPaws": "1454"
+      }
+    },
+    "hamiltonstovare": {
+      "label": "Hamiltonstovare",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hamiltonstovare",
+        "Pumpkin": "Dog~PureBreed~Hamiltonstovare",
+        "HealthyPaws": "1300"
+      }
+    },
+    "harrier": {
+      "label": "Harrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Harrier",
+        "Pumpkin": "Dog~PureBreed~Harrier",
+        "HealthyPaws": "1102"
+      }
+    },
+    "havanese": {
+      "label": "Havanese",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Havanese",
+        "Pumpkin": "Dog~PureBreed~Havanese",
+        "HealthyPaws": "1103"
+      }
+    },
+    "hovawart": {
+      "label": "Hovawart",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hovawart",
+        "Pumpkin": "Dog~PureBreed~Hovawart",
+        "HealthyPaws": "1104"
+      }
+    },
+    "hungarian-kuvasz": {
+      "label": "Hungarian Kuvasz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Kuvasz",
+        "Pumpkin": "Dog~PureBreed~Slovakian%20Kuvasz",
+        "HealthyPaws": "1305"
+      }
+    },
+    "hungarian-puli": {
+      "label": "Hungarian Puli",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Puli",
+        "Pumpkin": "Dog~PureBreed~Hungarian%20Greyhound",
+        "HealthyPaws": "1306"
+      }
+    },
+    "hungarian-pumi": {
+      "label": "Hungarian Pumi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Pumi",
+        "Pumpkin": "Dog~PureBreed~Hungarian%20Greyhound",
+        "HealthyPaws": "1306"
+      }
+    },
+    "hungarian-sheepdog": {
+      "label": "Hungarian Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Sheepdog",
+        "HealthyPaws": "1456"
+      }
+    },
+    "hungarian-vizsla": {
+      "label": "Hungarian Vizsla",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Vizsla",
+        "Pumpkin": "Dog~PureBreed~Hungarian%20Greyhound",
+        "HealthyPaws": "1307"
+      }
+    },
+    "hungarian-wire-haired-vizsla": {
+      "label": "Hungarian Wire Haired Vizsla",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Hungarian Wire Haired Vizsla",
+        "Pumpkin": "Dog~PureBreed~Hungarian%20Coarse-Haired%20Vizsla",
+        "HealthyPaws": "1303"
+      }
+    },
+    "ibizan-hound": {
+      "label": "Ibizan Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ibizan Hound",
+        "Pumpkin": "Dog~PureBreed~Ibizan%20Hound",
+        "HealthyPaws": "1105"
+      }
+    },
+    "icelandic-sheepdog": {
+      "label": "Icelandic Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Icelandic Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Iceland%20Sheepdog",
+        "HealthyPaws": "1106"
+      }
+    },
+    "inca-hairless-dog": {
+      "label": "Inca Hairless Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Inca Hairless Dog",
+        "Pumpkin": "Dog~PureBreed~Mexican%20Hairless%20Dog",
+        "HealthyPaws": "1107"
+      }
+    },
+    "inca-orchid": {
+      "label": "Inca Orchid",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Inca Orchid",
+        "Pumpkin": "Dog~PureBreed~Peruvian%20Inca%20Orchid",
+        "HealthyPaws": "1457"
+      }
+    },
+    "irish-red-and-white-setter": {
+      "label": "Irish Red and White Setter",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Red and White Setter",
+        "Pumpkin": "Dog~PureBreed~Irish%20Red%20_%20White%20Setter",
+        "HealthyPaws": "1108"
+      }
+    },
+    "irish-setter": {
+      "label": "Irish Setter",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Setter",
+        "Pumpkin": "Dog~PureBreed~Irish%20Setter",
+        "HealthyPaws": "1109"
+      }
+    },
+    "irish-staffordshire-bull-terrier": {
+      "label": "Irish Staffordshire Bull Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Staffordshire Bull Terrier",
+        "Pumpkin": "Dog~PureBreed~Staffordshire%20Bull%20Terrier",
+        "HealthyPaws": "1205"
+      }
+    },
+    "irish-terrier": {
+      "label": "Irish Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Terrier",
+        "Pumpkin": "Dog~PureBreed~Irish%20Terrier",
+        "HealthyPaws": "1110"
+      }
+    },
+    "irish-water-spaniel": {
+      "label": "Irish Water Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Water Spaniel",
+        "Pumpkin": "Dog~PureBreed~Irish%20Water%20Spaniel",
+        "HealthyPaws": "1111"
+      }
+    },
+    "irish-wolfhound": {
+      "label": "Irish Wolfhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Irish Wolfhound",
+        "Pumpkin": "Dog~PureBreed~Irish%20Wolfhound",
+        "HealthyPaws": "1112"
+      }
+    },
+    "italian-greyhound": {
+      "label": "Italian Greyhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Italian Greyhound",
+        "Pumpkin": "Dog~PureBreed~Italian%20Greyhound",
+        "HealthyPaws": "1113"
+      }
+    },
+    "jack-russell-terrier": {
+      "label": "Jack Russell Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Jack Russell Terrier",
+        "Pumpkin": "Dog~PureBreed~Jack%20Russell%20Terrier",
+        "HealthyPaws": "1114"
+      }
+    },
+    "japanese-chin": {
+      "label": "Japanese Chin",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Japanese Chin",
+        "Pumpkin": "Dog~PureBreed~Japanese%20Chin",
+        "HealthyPaws": "1115"
+      }
+    },
+    "japanese-spitz": {
+      "label": "Japanese Spitz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Japanese Spitz",
+        "Pumpkin": "Dog~PureBreed~Japanese%20Spitz",
+        "HealthyPaws": "1116"
+      }
+    },
+    "japanese-terrier": {
+      "label": "Japanese Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Japanese Terrier",
+        "Pumpkin": "Dog~PureBreed~Japanese%20Terrier",
+        "HealthyPaws": "1117"
+      }
+    },
+    "kai-dog": {
+      "label": "Kai Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kai Dog",
+        "Pumpkin": "Dog~PureBreed~Atlas%20Dog",
+        "HealthyPaws": "1118"
+      }
+    },
+    "kangal-dog": {
+      "label": "Kangal Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kangal Dog",
+        "Pumpkin": "Dog~PureBreed~Kangal%20Dog",
+        "HealthyPaws": "1322"
+      }
+    },
+    "karabash": {
+      "label": "Karabash",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Karabash",
+        "Pumpkin": "Dog~PureBreed~Akbash",
+        "HealthyPaws": "1464"
+      }
+    },
+    "karelian-bear-dog": {
+      "label": "Karelian Bear Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Karelian Bear Dog",
+        "Pumpkin": "Dog~PureBreed~Karelian%20Bear%20Dog",
+        "HealthyPaws": "1119"
+      }
+    },
+    "keeshond": {
+      "label": "Keeshond",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Keeshond",
+        "Pumpkin": "Dog~PureBreed~Keeshond",
+        "HealthyPaws": "1120"
+      }
+    },
+    "kelpie": {
+      "label": "Kelpie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kelpie",
+        "Pumpkin": "Dog~PureBreed~Australian%20Kelpie",
+        "HealthyPaws": "1243"
+      }
+    },
+    "kerry-blue-terrier": {
+      "label": "Kerry Blue Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kerry Blue Terrier",
+        "Pumpkin": "Dog~PureBreed~Kerry%20Blue%20Terrier",
+        "HealthyPaws": "1121"
+      }
+    },
+    "king-charles-spaniel": {
+      "label": "King Charles Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~King Charles Spaniel",
+        "Pumpkin": "Dog~PureBreed~Cavalier%20King%20Charles%20Spaniel",
+        "HealthyPaws": "1323"
+      }
+    },
+    "king-shepherd": {
+      "label": "King Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~King Shepherd",
+        "Pumpkin": "Dog~PureBreed~King%20Shepherd",
+        "HealthyPaws": "1123"
+      }
+    },
+    "kishu-inu": {
+      "label": "Kishu Inu",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kishu Inu",
+        "Pumpkin": "Dog~PureBreed~Tosa%20Inu",
+        "HealthyPaws": "1466"
+      }
+    },
+    "komondor": {
+      "label": "Komondor",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Komondor",
+        "Pumpkin": "Dog~PureBreed~Komondor",
+        "HealthyPaws": "1124"
+      }
+    },
+    "kooikerhondje": {
+      "label": "Kooikerhondje",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kooikerhondje",
+        "Pumpkin": "Dog~PureBreed~Kooikerhondje",
+        "HealthyPaws": "1467"
+      }
+    },
+    "koolie": {
+      "label": "Koolie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Koolie",
+        "Pumpkin": "Dog~PureBreed~Collie",
+        "HealthyPaws": "1324"
+      }
+    },
+    "korean-jindo": {
+      "label": "Korean Jindo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Korean Jindo",
+        "Pumpkin": "Dog~PureBreed~Silken%20Windhound",
+        "HealthyPaws": "1468"
+      }
+    },
+    "kuvasz": {
+      "label": "Kuvasz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kuvasz",
+        "Pumpkin": "Dog~PureBreed~Kuvasz",
+        "HealthyPaws": "1125"
+      }
+    },
+    "kyi-leo": {
+      "label": "Kyi-Leo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Kyi-Leo",
+        "Pumpkin": "Dog~PureBreed~Ariegeois",
+        "HealthyPaws": "1469"
+      }
+    },
+    "labradoodle": {
+      "label": "Labradoodle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Labradoodle",
+        "Pumpkin": "Dog~Mixed~Labradoodle",
+        "HealthyPaws": "183"
+      }
+    },
+    "labrador-retriever": {
+      "label": "Labrador Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Labrador Retriever",
+        "Pumpkin": "Dog~PureBreed~Labrador%20Retriever",
+        "HealthyPaws": "1126"
+      }
+    },
+    "labrador-retriever-black": {
+      "label": "Labrador Retriever - Black",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Labrador Retriever-Black",
+        "Pumpkin": "Dog~PureBreed~Labrador%20Retriever",
+        "HealthyPaws": "1126"
+      }
+    },
+    "labrador-retriever-chocolate": {
+      "label": "Labrador Retriever - Chocolate",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Labrador Retriever-Chocolate",
+        "Pumpkin": "Dog~PureBreed~Labrador%20Retriever",
+        "HealthyPaws": "1126"
+      }
+    },
+    "labrador-retriever-yellow": {
+      "label": "Labrador Retriever - Yellow",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Labrador Retriever-Yellow",
+        "Pumpkin": "Dog~PureBreed~Labrador%20Retriever",
+        "HealthyPaws": "1126"
+      }
+    },
+    "laekenois": {
+      "label": "Laekenois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Laekenois",
+        "Pumpkin": "Dog~PureBreed~Ariegeois",
+        "HealthyPaws": "1471"
+      }
+    },
+    "lagotto-romagnolo": {
+      "label": "Lagotto Romagnolo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lagotto Romagnolo",
+        "Pumpkin": "Dog~PureBreed~Lagotto%20Romagnolo",
+        "HealthyPaws": "1127"
+      }
+    },
+    "lakeland-terrier": {
+      "label": "Lakeland Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lakeland Terrier",
+        "Pumpkin": "Dog~PureBreed~Lakeland%20Terrier",
+        "HealthyPaws": "1128"
+      }
+    },
+    "lancashire-heeler": {
+      "label": "Lancashire Heeler",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lancashire Heeler",
+        "Pumpkin": "Dog~PureBreed~Lancashire%20Heeler",
+        "HealthyPaws": "1129"
+      }
+    },
+    "landseer": {
+      "label": "Landseer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Landseer",
+        "Pumpkin": "Dog~PureBreed~Kromfohrlander",
+        "HealthyPaws": "1131"
+      }
+    },
+    "lapinporokoira": {
+      "label": "Lapinporokoira",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lapinporokoira",
+        "Pumpkin": "Dog~PureBreed~Lapponian%20Herder",
+        "HealthyPaws": "1472"
+      }
+    },
+    "large-munsterlander": {
+      "label": "Large Munsterlander",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Large Munsterlander",
+        "Pumpkin": "Dog~PureBreed~Large%20Munsterlander",
+        "HealthyPaws": "1132"
+      }
+    },
+    "leonberger": {
+      "label": "Leonberger",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Leonberger",
+        "Pumpkin": "Dog~PureBreed~Leonberger",
+        "HealthyPaws": "1133"
+      }
+    },
+    "lhasa-apso": {
+      "label": "Lhasa Apso",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lhasa Apso",
+        "Pumpkin": "Dog~PureBreed~Lhasa%20Apso",
+        "HealthyPaws": "1134"
+      }
+    },
+    "llewellin-setter": {
+      "label": "Llewellin Setter",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Llewellin Setter",
+        "Pumpkin": "Dog~PureBreed~English%20Setter",
+        "HealthyPaws": "1329"
+      }
+    },
+    "louisiana-catahoula-leopard-dog": {
+      "label": "Louisiana Catahoula Leopard Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Louisiana Catahoula Leopard Dog",
+        "Pumpkin": "Dog~PureBreed~Catahoula%20Leopard",
+        "HealthyPaws": "1473"
+      }
+    },
+    "lowchen": {
+      "label": "Lowchen",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lowchen",
+        "Pumpkin": "Dog~PureBreed~Lowchen",
+        "HealthyPaws": "1135"
+      }
+    },
+    "lucas-terrier": {
+      "label": "Lucas Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lucas Terrier",
+        "Pumpkin": "Dog~PureBreed~Sealyham%20Terrier",
+        "HealthyPaws": "1474"
+      }
+    },
+    "lurcher": {
+      "label": "Lurcher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Lurcher",
+        "Pumpkin": "Dog~PureBreed~Lurcher",
+        "HealthyPaws": "1475"
+      }
+    },
+    "malamute-husky": {
+      "label": "Malamute Husky",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Alaskan Husky",
+        "Pumpkin": "Dog~PureBreed~Alaskan%20Husky",
+        "HealthyPaws": "1476"
+      }
+    },
+    "malinois": {
+      "label": "Malinois",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Malinois",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Malinois",
+        "HealthyPaws": "1024"
+      }
+    },
+    "maltese": {
+      "label": "Maltese",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Maltese",
+        "Pumpkin": "Dog~PureBreed~Maltese",
+        "HealthyPaws": "1136"
+      }
+    },
+    "manchester-terrier": {
+      "label": "Manchester Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Manchester Terrier",
+        "Pumpkin": "Dog~PureBreed~Manchester%20Terrier",
+        "HealthyPaws": "1137"
+      }
+    },
+    "maremma-sheepdog": {
+      "label": "Maremma Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Maremma Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Maremma%20Sheepdog",
+        "HealthyPaws": "1479"
+      }
+    },
+    "mastiff": {
+      "label": "Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mastiff",
+        "Pumpkin": "Dog~PureBreed~Mastiff",
+        "HealthyPaws": "1138"
+      }
+    },
+    "mexican-hairless-crested": {
+      "label": "Mexican Hairless Crested",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mexican Hairless Crested",
+        "Pumpkin": "Dog~PureBreed~Mexican%20Hairless%20Dog",
+        "HealthyPaws": "1238"
+      }
+    },
+    "mexican-hairless-dog": {
+      "label": "Mexican Hairless Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mexican Hairless Dog",
+        "Pumpkin": "Dog~PureBreed~Mexican%20Hairless%20Dog",
+        "HealthyPaws": "1139"
+      }
+    },
+    "miki": {
+      "label": "Miki",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Miki",
+        "Pumpkin": "Dog~PureBreed~Miki",
+        "HealthyPaws": "187"
+      }
+    },
+    "miniature-dachshund": {
+      "label": "Miniature Dachshund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Miniature Dachshund",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Dachshund",
+        "HealthyPaws": "1333"
+      }
+    },
+    "miniature-pinscher": {
+      "label": "Miniature Pinscher",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Miniature Pinscher",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Pinscher",
+        "HealthyPaws": "1142"
+      }
+    },
+    "miniature-poodle": {
+      "label": "Miniature Poodle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Miniature Poodle",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Poodle",
+        "HealthyPaws": "1143"
+      }
+    },
+    "miniature-schnauzer": {
+      "label": "Miniature Schnauzer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Miniature Schnauzer",
+        "Pumpkin": "Dog~PureBreed~Miniature%20Schnauzer",
+        "HealthyPaws": "1144"
+      }
+    },
+    "mioritic-sheepdog": {
+      "label": "Mioritic Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mioritic Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Maremma%20Sheepdog",
+        "HealthyPaws": "1484"
+      }
+    },
+    "mountain-cur": {
+      "label": "Mountain Cur",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mountain Cur",
+        "Pumpkin": "Dog~PureBreed~Mountain%20Cur",
+        "HealthyPaws": "1145"
+      }
+    },
+    "mountain-feist": {
+      "label": "Mountain Feist",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mountain Feist",
+        "Pumpkin": "Dog~PureBreed~Mountain%20Feist",
+        "HealthyPaws": "1485"
+      }
+    },
+    "mudi": {
+      "label": "Mudi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Mudi",
+        "Pumpkin": "Dog~PureBreed~Mudi",
+        "HealthyPaws": "1146"
+      }
+    },
+    "native-american-indian-dog": {
+      "label": "Native American Indian Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Native American Indian Dog",
+        "Pumpkin": "Dog~PureBreed~North%20American%20Indian%20Dog",
+        "HealthyPaws": "1486"
+      }
+    },
+    "neapolitan-mastiff": {
+      "label": "Neapolitan Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Neapolitan Mastiff",
+        "Pumpkin": "Dog~PureBreed~Neapolitan%20Mastiff",
+        "HealthyPaws": "1148"
+      }
+    },
+    "nebolish-mastiff": {
+      "label": "Nebolish Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Nebolish Mastiff",
+        "Pumpkin": "Dog~PureBreed~English%20Mastiff",
+        "HealthyPaws": "1487"
+      }
+    },
+    "new-zealand-huntaway-sheepdog": {
+      "label": "New Zealand Huntaway (Sheepdog)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~New Zealand Huntaway(Sheepdog)",
+        "Pumpkin": "Dog~PureBreed~Iceland%20Sheepdog",
+        "HealthyPaws": "1489"
+      }
+    },
+    "newfoundland": {
+      "label": "Newfoundland",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Newfoundland",
+        "Pumpkin": "Dog~PureBreed~Newfoundland",
+        "HealthyPaws": "1150"
+      }
+    },
+    "nippon-terrier": {
+      "label": "Nippon Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Nippon Terrier",
+        "Pumpkin": "Dog~PureBreed~Bedlington%20Terrier",
+        "HealthyPaws": "1491"
+      }
+    },
+    "norfolk-terrier": {
+      "label": "Norfolk Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Norfolk Terrier",
+        "Pumpkin": "Dog~PureBreed~Norfolk%20Terrier",
+        "HealthyPaws": "1151"
+      }
+    },
+    "northern-inuit-dog": {
+      "label": "Northern Inuit Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Northern Inuit Dog",
+        "Pumpkin": "Dog~PureBreed~Greenland%20Dog",
+        "HealthyPaws": "1152"
+      }
+    },
+    "norwegian-buhund": {
+      "label": "Norwegian Buhund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Norwegian Buhund",
+        "Pumpkin": "Dog~PureBreed~Norwegian%20Buhund",
+        "HealthyPaws": "1338"
+      }
+    },
+    "norwegian-elkhound": {
+      "label": "Norwegian Elkhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Norwegian Elkhound",
+        "Pumpkin": "Dog~PureBreed~Norwegian%20Elkhound",
+        "HealthyPaws": "1153"
+      }
+    },
+    "norwegian-lundehund": {
+      "label": "Norwegian Lundehund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Norwegian Lundehund",
+        "Pumpkin": "Dog~PureBreed~Norwegian%20Lundehund",
+        "HealthyPaws": "1492"
+      }
+    },
+    "norwich-terrier": {
+      "label": "Norwich Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Norwich Terrier",
+        "Pumpkin": "Dog~PureBreed~Norwich%20Terrier",
+        "HealthyPaws": "1154"
+      }
+    },
+    "nova-scotia-duck-tolling-retriever": {
+      "label": "Nova Scotia Duck Tolling Retriever",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Nova Scotia Duck Tolling Retriever",
+        "Pumpkin": "Dog~PureBreed~Nova%20Scotia%20Duck%20Tolling%20Retriever",
+        "HealthyPaws": "1155"
+      }
+    },
+    "old-english-mastiff": {
+      "label": "Old English Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Old English Mastiff",
+        "Pumpkin": "Dog~PureBreed~English%20Mastiff",
+        "HealthyPaws": "1078"
+      }
+    },
+    "old-english-sheepdog": {
+      "label": "Old English Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Old English Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Old%20English%20Sheepdog",
+        "HealthyPaws": "1156"
+      }
+    },
+    "olde-english-bulldogge": {
+      "label": "Olde English Bulldogge",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Olde English Bulldogge",
+        "Pumpkin": "Dog~PureBreed~Olde%20English%20Bulldogge",
+        "HealthyPaws": "1157"
+      }
+    },
+    "olde-victorian-bulldogge": {
+      "label": "Olde Victorian Bulldogge",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Olde Victorian Bulldogge",
+        "Pumpkin": "Dog~PureBreed~Victorian%20Bulldog",
+        "HealthyPaws": "1220"
+      }
+    },
+    "ori-pei": {
+      "label": "Ori Pei",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ori Pei",
+        "Pumpkin": "Dog~PureBreed~Shar-pei",
+        "HealthyPaws": "1494"
+      }
+    },
+    "otterhound": {
+      "label": "Otterhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Otterhound",
+        "Pumpkin": "Dog~PureBreed~Otterhound",
+        "HealthyPaws": "1158"
+      }
+    },
+    "papillon": {
+      "label": "Papillon",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Papillon",
+        "Pumpkin": "Dog~PureBreed~Papillon",
+        "HealthyPaws": "1159"
+      }
+    },
+    "parson-jack-russell-terrier": {
+      "label": "Parson Jack Russell Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Parson Jack Russell Terrier",
+        "Pumpkin": "Dog~PureBreed~Parson%20Jack%20Russell%20Terrier",
+        "HealthyPaws": "1160"
+      }
+    },
+    "patterdale-terrier": {
+      "label": "Patterdale Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Patterdale Terrier",
+        "Pumpkin": "Dog~PureBreed~Patterdale%20Terrier",
+        "HealthyPaws": "1497"
+      }
+    },
+    "pekingese": {
+      "label": "Pekingese",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pekingese",
+        "Pumpkin": "Dog~PureBreed~Pekingese",
+        "HealthyPaws": "1161"
+      }
+    },
+    "pembroke-welsh-corgi": {
+      "label": "Pembroke Welsh Corgi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pembroke Welsh Corgi",
+        "Pumpkin": "Dog~PureBreed~Pembroke%20Welsh%20Corgi",
+        "HealthyPaws": "1162"
+      }
+    },
+    "perro-de-presa-mallorquin": {
+      "label": "Perro de Presa Mallorquin",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Perro de Presa Mallorquin",
+        "Pumpkin": "Dog~PureBreed~Pembroke%20Welsh%20Corgi",
+        "HealthyPaws": "1499"
+      }
+    },
+    "peruvian-inca-orchid": {
+      "label": "Peruvian Inca Orchid",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Peruvian Inca Orchid",
+        "Pumpkin": "Dog~PureBreed~Peruvian%20Inca%20Orchid",
+        "HealthyPaws": "1500"
+      }
+    },
+    "petit-basset-griffon-vendeen": {
+      "label": "Petit Basset Griffon Vendeen",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Petit Basset Griffon Vendeen",
+        "Pumpkin": "Dog~PureBreed~Petit%20Basset%20Griffon%20Vendeen",
+        "HealthyPaws": "1163"
+      }
+    },
+    "petit-brabancon": {
+      "label": "Petit Brabancon",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Petit Brabancon",
+        "Pumpkin": "Dog~PureBreed~Petite%20Gascon-Saintongeois",
+        "HealthyPaws": "1501"
+      }
+    },
+    "pharaoh-hound": {
+      "label": "Pharaoh Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pharaoh Hound",
+        "Pumpkin": "Dog~PureBreed~Pharaoh%20Hound",
+        "HealthyPaws": "1164"
+      }
+    },
+    "pit-bull": {
+      "label": "Pit Bull",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pit Bull",
+        "Pumpkin": "Dog~PureBreed~Pit%20Bull",
+        "HealthyPaws": "189"
+      }
+    },
+    "plott-hound": {
+      "label": "Plott Hound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Plott Hound",
+        "Pumpkin": "Dog~PureBreed~Plott%20Hound",
+        "HealthyPaws": "1165"
+      }
+    },
+    "pointer": {
+      "label": "Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pointer",
+        "Pumpkin": "Dog~PureBreed~Pointer",
+        "HealthyPaws": "1166"
+      }
+    },
+    "polish-lowland-sheepdog": {
+      "label": "Polish Lowland Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Polish Lowland Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Polish%20Lowland%20Sheepdog",
+        "HealthyPaws": "1167"
+      }
+    },
+    "polish-tatra-sheepdog": {
+      "label": "Polish Tatra Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Polish Tatra Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Polish%20Lowland%20Sheepdog",
+        "HealthyPaws": "1502"
+      }
+    },
+    "pomeranian": {
+      "label": "Pomeranian",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pomeranian",
+        "Pumpkin": "Dog~PureBreed~Pomeranian",
+        "HealthyPaws": "1168"
+      }
+    },
+    "poodle": {
+      "label": "Poodle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Poodle",
+        "Pumpkin": "Dog~Mixed~Poodle%20Mix",
+        "HealthyPaws": "1169"
+      }
+    },
+    "poodle-giant": {
+      "label": "Poodle - Giant",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Poodle -Giant",
+        "Pumpkin": "Dog~Mixed~Poodle%20Mix",
+        "HealthyPaws": "1169"
+      }
+    },
+    "poodle-standard": {
+      "label": "Poodle - Standard",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Poodle -Standard",
+        "Pumpkin": "Dog~PureBreed~Standard%20Poodle",
+        "HealthyPaws": "1169"
+      }
+    },
+    "poodle-teacup": {
+      "label": "Poodle - Teacup",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Poodle -Teacup",
+        "Pumpkin": "Dog~Mixed~Poodle%20Mix",
+        "HealthyPaws": "1169"
+      }
+    },
+    "poodle-toy": {
+      "label": "Poodle - Toy",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Poodle -Toy",
+        "Pumpkin": "Dog~Mixed~Poodle%20Mix",
+        "HealthyPaws": "1169"
+      }
+    },
+    "porcelaine": {
+      "label": "Porcelaine",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Porcelaine",
+        "Pumpkin": "Dog~PureBreed~Porcelaine",
+        "HealthyPaws": "1504"
+      }
+    },
+    "portuguese-mastiff-rafeiro-do-alentejo": {
+      "label": "Portuguese Mastiff (Rafeiro Do Alentejo)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Portuguese Mastiff (Rafeiro Do Alentejo)",
+        "Pumpkin": "Dog~PureBreed~Portuguese%20Water%20Dog",
+        "HealthyPaws": "1505"
+      }
+    },
+    "portuguese-podengo": {
+      "label": "Portuguese Podengo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Portuguese Podengo",
+        "Pumpkin": "Dog~PureBreed~Portuguese%20Podengo",
+        "HealthyPaws": "1506"
+      }
+    },
+    "portuguese-pointer": {
+      "label": "Portuguese Pointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Portuguese Pointer",
+        "Pumpkin": "Dog~PureBreed~Portuguese%20Podengo",
+        "HealthyPaws": "1508"
+      }
+    },
+    "portuguese-water-dog": {
+      "label": "Portuguese Water Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Portuguese Water Dog",
+        "Pumpkin": "Dog~PureBreed~Portuguese%20Water%20Dog",
+        "HealthyPaws": "1170"
+      }
+    },
+    "presa-canario": {
+      "label": "Presa Canario",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Presa Canario",
+        "Pumpkin": "Dog~PureBreed~Presa%20Canario",
+        "HealthyPaws": "1511"
+      }
+    },
+    "pudelpointer": {
+      "label": "Pudelpointer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pudelpointer",
+        "Pumpkin": "Dog~PureBreed~Pudelpointer",
+        "HealthyPaws": "1512"
+      }
+    },
+    "pug": {
+      "label": "Pug",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pug",
+        "Pumpkin": "Dog~PureBreed~Pug",
+        "HealthyPaws": "1171"
+      }
+    },
+    "puli": {
+      "label": "Puli",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Puli",
+        "Pumpkin": "Dog~PureBreed~Puli",
+        "HealthyPaws": "1172"
+      }
+    },
+    "pumi": {
+      "label": "Pumi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pumi",
+        "Pumpkin": "Dog~PureBreed~Pumi",
+        "HealthyPaws": "1173"
+      }
+    },
+    "pyrenean-mastiff": {
+      "label": "Pyrenean Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pyrenean Mastiff",
+        "Pumpkin": "Dog~PureBreed~Pyrenean%20Mastiff",
+        "HealthyPaws": "1174"
+      }
+    },
+    "pyrenean-mountain-dog": {
+      "label": "Pyrenean Mountain Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pyrenean Mountain Dog",
+        "Pumpkin": "Dog~PureBreed~Bernese%20Mountain%20Dog",
+        "HealthyPaws": "1175"
+      }
+    },
+    "pyrenean-shepherd": {
+      "label": "Pyrenean Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Pyrenean Shepherd",
+        "Pumpkin": "Dog~PureBreed~Pyrenean%20Shepherd",
+        "HealthyPaws": "1176"
+      }
+    },
+    "queensland-heeler": {
+      "label": "Queensland Heeler",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Queensland Heeler",
+        "Pumpkin": "Dog~PureBreed~Queensland%20Heeler",
+        "HealthyPaws": "1515"
+      }
+    },
+    "rat-terrier": {
+      "label": "Rat Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Rat Terrier",
+        "Pumpkin": "Dog~PureBreed~Rat%20Terrier",
+        "HealthyPaws": "1177"
+      }
+    },
+    "rhodesian-ridgeback": {
+      "label": "Rhodesian Ridgeback",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Rhodesian Ridgeback",
+        "Pumpkin": "Dog~PureBreed~Rhodesian%20Ridgeback",
+        "HealthyPaws": "1179"
+      }
+    },
+    "rottweiler": {
+      "label": "Rottweiler",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Rottweiler",
+        "Pumpkin": "Dog~PureBreed~Rottweiler",
+        "HealthyPaws": "1180"
+      }
+    },
+    "rough-collie": {
+      "label": "Rough Collie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Rough Collie",
+        "Pumpkin": "Dog~PureBreed~Border%20Collie",
+        "HealthyPaws": "1181"
+      }
+    },
+    "saarlooswolfhond": {
+      "label": "Saarlooswolfhond",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Saarlooswolfhond",
+        "Pumpkin": "Dog~PureBreed~Irish%20Wolfhound",
+        "HealthyPaws": "1519"
+      }
+    },
+    "saint-bernard": {
+      "label": "Saint Bernard",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Saint Bernard",
+        "Pumpkin": "Dog~PureBreed~Saint%20Bernard",
+        "HealthyPaws": "1182"
+      }
+    },
+    "saluki": {
+      "label": "Saluki",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Saluki",
+        "Pumpkin": "Dog~PureBreed~Saluki",
+        "HealthyPaws": "1183"
+      }
+    },
+    "samoyed": {
+      "label": "Samoyed",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Samoyed",
+        "Pumpkin": "Dog~PureBreed~Samoyed",
+        "HealthyPaws": "1184"
+      }
+    },
+    "sarplaninac": {
+      "label": "Sarplaninac",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Sarplaninac",
+        "Pumpkin": "Dog~PureBreed~Charplaninatz",
+        "HealthyPaws": "1522"
+      }
+    },
+    "schapendoes": {
+      "label": "Schapendoes",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schapendoes",
+        "Pumpkin": "Dog~PureBreed~Schapendoes",
+        "HealthyPaws": "1523"
+      }
+    },
+    "schipperke": {
+      "label": "Schipperke",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schipperke",
+        "Pumpkin": "Dog~PureBreed~Schipperke",
+        "HealthyPaws": "1185"
+      }
+    },
+    "schnauzer": {
+      "label": "Schnauzer",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schnauzer",
+        "Pumpkin": "Dog~Mixed~Schnauzer%20Mix",
+        "HealthyPaws": "197"
+      }
+    },
+    "schnauzer-giant": {
+      "label": "Schnauzer - giant",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schnauzer-giant",
+        "Pumpkin": "Dog~Mixed~Schnauzer%20Mix",
+        "HealthyPaws": "197"
+      }
+    },
+    "schnauzer-miniature": {
+      "label": "Schnauzer - miniature",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schnauzer-miniature",
+        "Pumpkin": "Dog~Mixed~Schnauzer%20Mix",
+        "HealthyPaws": "197"
+      }
+    },
+    "schnauzer-standard": {
+      "label": "Schnauzer - standard",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Schnauzer-standard",
+        "Pumpkin": "Dog~Mixed~Schnauzer%20Mix",
+        "HealthyPaws": "1169"
+      }
+    },
+    "scottish-deerhound": {
+      "label": "Scottish Deerhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Scottish Deerhound",
+        "Pumpkin": "Dog~PureBreed~Scottish%20Deerhound",
+        "HealthyPaws": "1186"
+      }
+    },
+    "scottish-terrier": {
+      "label": "Scottish Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Scottish Terrier",
+        "Pumpkin": "Dog~PureBreed~Scottish%20Terrier",
+        "HealthyPaws": "1187"
+      }
+    },
+    "sealyham-terrier": {
+      "label": "Sealyham Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Sealyham Terrier",
+        "Pumpkin": "Dog~PureBreed~Sealyham%20Terrier",
+        "HealthyPaws": "1188"
+      }
+    },
+    "segugio-italiano": {
+      "label": "Segugio Italiano",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Segugio Italiano",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Malinois",
+        "HealthyPaws": "1189"
+      }
+    },
+    "shar-pei": {
+      "label": "Shar-pei",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shar-pei",
+        "Pumpkin": "Dog~PureBreed~Shar-pei",
+        "HealthyPaws": "1190"
+      }
+    },
+    "shetland-sheepdog": {
+      "label": "Shetland Sheepdog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shetland Sheepdog",
+        "Pumpkin": "Dog~PureBreed~Shetland%20Sheepdog",
+        "HealthyPaws": "1191"
+      }
+    },
+    "shiba-inu": {
+      "label": "Shiba Inu",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shiba Inu",
+        "Pumpkin": "Dog~PureBreed~Shiba%20Inu",
+        "HealthyPaws": "1192"
+      }
+    },
+    "shih-tzu": {
+      "label": "Shih Tzu",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shih Tzu",
+        "Pumpkin": "Dog~PureBreed~Shih%20Tzu",
+        "HealthyPaws": "1193"
+      }
+    },
+    "shikoku": {
+      "label": "Shikoku",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shikoku",
+        "Pumpkin": "Dog~PureBreed~Shiloh%20Shepherd",
+        "HealthyPaws": "1528"
+      }
+    },
+    "shiloh-shepherd": {
+      "label": "Shiloh Shepherd",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Shiloh Shepherd",
+        "Pumpkin": "Dog~PureBreed~Shiloh%20Shepherd",
+        "HealthyPaws": "1529"
+      }
+    },
+    "siberian-husky": {
+      "label": "Siberian Husky",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Siberian Husky",
+        "Pumpkin": "Dog~PureBreed~Siberian%20Husky",
+        "HealthyPaws": "1194"
+      }
+    },
+    "silken-windhound": {
+      "label": "Silken Windhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Silken Windhound",
+        "Pumpkin": "Dog~PureBreed~Silken%20Windhound",
+        "HealthyPaws": "1231"
+      }
+    },
+    "silky-terrier": {
+      "label": "Silky Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Silky Terrier",
+        "Pumpkin": "Dog~PureBreed~Silky%20Terrier",
+        "HealthyPaws": "1195"
+      }
+    },
+    "skye-terrier": {
+      "label": "Skye Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Skye Terrier",
+        "Pumpkin": "Dog~PureBreed~Skye%20Terrier",
+        "HealthyPaws": "1196"
+      }
+    },
+    "sloughi": {
+      "label": "Sloughi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Sloughi",
+        "Pumpkin": "Dog~PureBreed~Sloughi",
+        "HealthyPaws": "1532"
+      }
+    },
+    "small-munsterlander": {
+      "label": "Small Munsterlander",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Small Munsterlander",
+        "Pumpkin": "Dog~PureBreed~Small%20Munsterlander",
+        "HealthyPaws": "1147"
+      }
+    },
+    "smooth-collie": {
+      "label": "Smooth Collie",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Smooth Collie",
+        "Pumpkin": "Dog~PureBreed~Smooth%20Fox%20Terrier",
+        "HealthyPaws": "1197"
+      }
+    },
+    "smooth-fox-terrier": {
+      "label": "Smooth Fox Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Smooth Fox Terrier",
+        "Pumpkin": "Dog~PureBreed~Smooth%20Fox%20Terrier",
+        "HealthyPaws": "1198"
+      }
+    },
+    "soft-coated-wheaten-terrier": {
+      "label": "Soft Coated Wheaten Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Soft Coated Wheaten Terrier",
+        "Pumpkin": "Dog~PureBreed~Soft%20Coated%20Wheaten%20Terrier",
+        "HealthyPaws": "1199"
+      }
+    },
+    "spanish-bulldog": {
+      "label": "Spanish Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Spanish Bulldog",
+        "Pumpkin": "Dog~PureBreed~English%20Bulldog",
+        "HealthyPaws": "1534"
+      }
+    },
+    "spanish-mastiff": {
+      "label": "Spanish Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Spanish Mastiff",
+        "Pumpkin": "Dog~PureBreed~Spanish%20Mastiff",
+        "HealthyPaws": "1200"
+      }
+    },
+    "spanish-water-dog": {
+      "label": "Spanish Water Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Spanish Water Dog",
+        "Pumpkin": "Dog~PureBreed~Spanish%20Water%20Dog",
+        "HealthyPaws": "1201"
+      }
+    },
+    "spinone-italiano": {
+      "label": "Spinone italiano",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Spinone italiano",
+        "Pumpkin": "Dog~PureBreed~Spanish%20Alano",
+        "HealthyPaws": "1202"
+      }
+    },
+    "spitz": {
+      "label": "Spitz",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Spitz",
+        "Pumpkin": "Dog~PureBreed~Spitz",
+        "HealthyPaws": "1203"
+      }
+    },
+    "stabyhoun-stabij": {
+      "label": "Stabyhoun (Stabij)",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Stabyhoun (Stabij)",
+        "Pumpkin": "Dog~PureBreed~Stabyhoun",
+        "HealthyPaws": "1535"
+      }
+    },
+    "staffordshire-bull-terrier": {
+      "label": "Staffordshire Bull Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Staffordshire Bull Terrier",
+        "Pumpkin": "Dog~PureBreed~Staffordshire%20Bull%20Terrier",
+        "HealthyPaws": "1205"
+      }
+    },
+    "staghound": {
+      "label": "Staghound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Staghound",
+        "Pumpkin": "Dog~PureBreed~Stabyhoun",
+        "HealthyPaws": "1364"
+      }
+    },
+    "sussex-spaniel": {
+      "label": "Sussex Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Sussex Spaniel",
+        "Pumpkin": "Dog~PureBreed~Sussex%20Spaniel",
+        "HealthyPaws": "1209"
+      }
+    },
+    "swedish-elkhound": {
+      "label": "Swedish Elkhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Swedish Elkhound",
+        "Pumpkin": "Dog~PureBreed~Swedish%20Vallhund",
+        "HealthyPaws": "1210"
+      }
+    },
+    "swedish-lapphund": {
+      "label": "Swedish Lapphund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Swedish Lapphund",
+        "Pumpkin": "Dog~PureBreed~Swedish%20Lapphund",
+        "HealthyPaws": "1210"
+      }
+    },
+    "swedish-vallhund": {
+      "label": "Swedish Vallhund",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Swedish Vallhund",
+        "Pumpkin": "Dog~PureBreed~Swedish%20Vallhund",
+        "HealthyPaws": "1210"
+      }
+    },
+    "tervuren": {
+      "label": "Tervuren",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tervuren",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Tervuren",
+        "HealthyPaws": "1026"
+      }
+    },
+    "thai-ridgeback": {
+      "label": "Thai Ridgeback",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Thai Ridgeback",
+        "Pumpkin": "Dog~PureBreed~Thai%20Ridgeback",
+        "HealthyPaws": "1211"
+      }
+    },
+    "tibetan-kyiapso": {
+      "label": "Tibetan KyiApso",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tibetan KyiApso",
+        "Pumpkin": "Dog~PureBreed~Tibetan%20Mastiff",
+        "HealthyPaws": "1538"
+      }
+    },
+    "tibetan-mastiff": {
+      "label": "Tibetan Mastiff",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tibetan Mastiff",
+        "Pumpkin": "Dog~PureBreed~Tibetan%20Mastiff",
+        "HealthyPaws": "1212"
+      }
+    },
+    "tibetan-spaniel": {
+      "label": "Tibetan Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tibetan Spaniel",
+        "Pumpkin": "Dog~PureBreed~Tibetan%20Spaniel",
+        "HealthyPaws": "1213"
+      }
+    },
+    "tibetan-terrier": {
+      "label": "Tibetan Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tibetan Terrier",
+        "Pumpkin": "Dog~PureBreed~Tibetan%20Terrier",
+        "HealthyPaws": "1214"
+      }
+    },
+    "tosa-inu": {
+      "label": "Tosa Inu",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Tosa Inu",
+        "Pumpkin": "Dog~PureBreed~Tosa%20Inu",
+        "HealthyPaws": "1540"
+      }
+    },
+    "toy-fox-terrier": {
+      "label": "Toy Fox Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Toy Fox Terrier",
+        "Pumpkin": "Dog~PureBreed~Toy%20Fox%20Terrier",
+        "HealthyPaws": "1215"
+      }
+    },
+    "toy-terrier": {
+      "label": "Toy Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Toy Terrier",
+        "Pumpkin": "Dog~PureBreed~Boston%20Terrier",
+        "HealthyPaws": "1541"
+      }
+    },
+    "treeing-tennessee-brindle": {
+      "label": "Treeing Tennessee Brindle",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Treeing Tennessee Brindle",
+        "Pumpkin": "Dog~PureBreed~Treeing%20Tennessee%20Brindle",
+        "HealthyPaws": "1218"
+      }
+    },
+    "treeing-walker-coonhound": {
+      "label": "Treeing Walker Coonhound",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Treeing Walker Coonhound",
+        "Pumpkin": "Dog~PureBreed~English%20Coonhound",
+        "HealthyPaws": "1219"
+      }
+    },
+    "victorian-bulldog": {
+      "label": "Victorian Bulldog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Victorian Bulldog",
+        "Pumpkin": "Dog~PureBreed~Victorian%20Bulldog",
+        "HealthyPaws": "1220"
+      }
+    },
+    "vizsla": {
+      "label": "Vizsla",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Vizsla",
+        "Pumpkin": "Dog~PureBreed~Vizsla",
+        "HealthyPaws": "1221"
+      }
+    },
+    "volpino-italiano": {
+      "label": "Volpino Italiano",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Volpino Italiano",
+        "Pumpkin": "Dog~PureBreed~Belgian%20Malinois",
+        "HealthyPaws": "1543"
+      }
+    },
+    "weimaraner": {
+      "label": "Weimaraner",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Weimaraner",
+        "Pumpkin": "Dog~PureBreed~Weimaraner",
+        "HealthyPaws": "1222"
+      }
+    },
+    "welsh-corgi": {
+      "label": "Welsh Corgi",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Welsh Corgi",
+        "Pumpkin": "Dog~PureBreed~Cardigan%20Welsh%20Corgi",
+        "HealthyPaws": "1054"
+      }
+    },
+    "welsh-corgi-cardigan": {
+      "label": "Welsh Corgi - Cardigan",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Welsh Corgi-Cardigan",
+        "Pumpkin": "Dog~PureBreed~Welsh%20Springer%20Spaniel",
+        "HealthyPaws": "1223"
+      }
+    },
+    "welsh-corgi-pembroke": {
+      "label": "Welsh Corgi - Pembroke",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Welsh Corgi-Pembroke",
+        "Pumpkin": "Dog~PureBreed~Welsh%20Terrier",
+        "HealthyPaws": "1224"
+      }
+    },
+    "welsh-springer-spaniel": {
+      "label": "Welsh Springer Spaniel",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Welsh Springer Spaniel",
+        "Pumpkin": "Dog~PureBreed~Welsh%20Springer%20Spaniel",
+        "HealthyPaws": "1223"
+      }
+    },
+    "welsh-terrier": {
+      "label": "Welsh Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Welsh Terrier",
+        "Pumpkin": "Dog~PureBreed~Welsh%20Terrier",
+        "HealthyPaws": "1224"
+      }
+    },
+    "west-highland-white-terrier": {
+      "label": "West Highland White Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~West Highland White Terrier",
+        "Pumpkin": "Dog~PureBreed~West%20Highland%20White%20Terrier",
+        "HealthyPaws": "1225"
+      }
+    },
+    "wheaten-terrier": {
+      "label": "Wheaten Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Wheaten Terrier",
+        "Pumpkin": "Dog~PureBreed~Manchester%20Terrier",
+        "HealthyPaws": "1351"
+      }
+    },
+    "whippet": {
+      "label": "Whippet",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Whippet",
+        "Pumpkin": "Dog~PureBreed~Whippet",
+        "HealthyPaws": "1226"
+      }
+    },
+    "wirehaired-fox-terrier": {
+      "label": "Wirehaired Fox Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Wirehaired FoxTerrier",
+        "Pumpkin": "Dog~PureBreed~Wire%20Fox%20Terrier",
+        "HealthyPaws": "1227"
+      }
+    },
+    "wirehaired-pointing-griffon": {
+      "label": "Wirehaired Pointing Griffon",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Wirehaired Pointing Griffon",
+        "Pumpkin": "Dog~PureBreed~Wirehaired%20Pointing%20Griffon",
+        "HealthyPaws": "1228"
+      }
+    },
+    "wirehaired-vizsla": {
+      "label": "Wirehaired Vizsla",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Wirehaired Vizsla",
+        "Pumpkin": "Dog~PureBreed~Wirehaired%20Pointing%20Griffon",
+        "HealthyPaws": "1546"
+      }
+    },
+    "xoloitzcuintli-mexican-hairless-dog": {
+      "label": "Xoloitzcuintli - Mexican Hairless Dog",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Xoloitzcuintli-Mexican Hairless Dog",
+        "Pumpkin": "Dog~PureBreed~Mexican%20Hairless%20Dog",
+        "HealthyPaws": "1139"
+      }
+    },
+    "yorkie-poo": {
+      "label": "Yorkie-Poo",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Ariegoeis",
+        "Pumpkin": "Dog~Mixed~Yorkie%20Poo",
+        "HealthyPaws": "206"
+      }
+    },
+    "yorkshire-terrier": {
+      "label": "Yorkshire Terrier",
+      "providers": {
+        "PrudentPet": "Dog~PureBreed~Yorkshire Terrier",
+        "Pumpkin": "Dog~PureBreed~Yorkshire%20Terrier",
+        "HealthyPaws": "1229"
+      }
+    },
+    "domestic-longhair": {
+      "label": "Domestic Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Domestic Longhair",
+        "Pumpkin": "Cat~Mixed~Domestic%20Longhair",
+        "HealthyPaws": "318"
+      }
+    },
+    "domestic-mediumhair": {
+      "label": "Domestic Mediumhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Domestic Mediumhair",
+        "Pumpkin": "Cat~Mixed~Domestic%20Mediumhair",
+        "HealthyPaws": "320"
+      }
+    },
+    "domestic-shorthair": {
+      "label": "Domestic Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Domestic Shorthair",
+        "Pumpkin": "Cat~Mixed~Domestic%20Shorthair",
+        "HealthyPaws": "319"
+      }
+    },
+    "mixed-breed": {
+      "label": "Mixed Breed",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Mixed Breed",
+        "Pumpkin": "Cat~Mixed~Mixed%20Cat",
+        "HealthyPaws": "317"
+      }
+    },
+    "abyssinian": {
+      "label": "Abyssinian",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Abyssinian",
+        "Pumpkin": "Cat~PureBreed~Abyssinian",
+        "HealthyPaws": "2000"
+      }
+    },
+    "american-bobtail": {
+      "label": "American Bobtail",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Bobtail",
+        "Pumpkin": "Cat~PureBreed~American%20Bobtail",
+        "HealthyPaws": "2001"
+      }
+    },
+    "american-curl": {
+      "label": "American Curl",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Curl",
+        "Pumpkin": "Cat~PureBreed~American%20Curl",
+        "HealthyPaws": "2002"
+      }
+    },
+    "american-curl-shorthair": {
+      "label": "American Curl Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Curl Shorthair",
+        "Pumpkin": "Cat~PureBreed~American%20Shorthair",
+        "HealthyPaws": "2004"
+      }
+    },
+    "american-keuda": {
+      "label": "American Keuda",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Keuda",
+        "Pumpkin": "Cat~PureBreed~American%20Bobtail",
+        "HealthyPaws": "2074"
+      }
+    },
+    "american-longhair": {
+      "label": "American Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Longhair",
+        "Pumpkin": "Cat~Mixed~American%20Longhair",
+        "HealthyPaws": "2075"
+      }
+    },
+    "american-shorthair-purebred": {
+      "label": "American Shorthair (purebred)",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Shorthair - purebred",
+        "Pumpkin": "Cat~PureBreed~American%20Shorthair",
+        "HealthyPaws": "2004"
+      }
+    },
+    "american-wirehair": {
+      "label": "American Wirehair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~American Wirehair",
+        "Pumpkin": "Cat~PureBreed~American%20Wirehair",
+        "HealthyPaws": "2005"
+      }
+    },
+    "angora": {
+      "label": "Angora",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Angora",
+        "Pumpkin": "Cat~PureBreed~Turkish%20Angora",
+        "HealthyPaws": "2006"
+      }
+    },
+    "australian-mist": {
+      "label": "Australian Mist",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Australian Mist",
+        "Pumpkin": "Cat~PureBreed~American%20Bobtail",
+        "HealthyPaws": "2076"
+      }
+    },
+    "balinese": {
+      "label": "Balinese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Balinese",
+        "Pumpkin": "Cat~PureBreed~Balinese",
+        "HealthyPaws": "2008"
+      }
+    },
+    "bengal": {
+      "label": "Bengal",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Bengal",
+        "Pumpkin": "Cat~PureBreed~Bengal",
+        "HealthyPaws": "2009"
+      }
+    },
+    "bengalese": {
+      "label": "Bengalese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Bengalese",
+        "Pumpkin": "Cat~PureBreed~Bengal",
+        "HealthyPaws": "2077"
+      }
+    },
+    "birman": {
+      "label": "Birman",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Birman",
+        "Pumpkin": "Cat~PureBreed~Birman",
+        "HealthyPaws": "2010"
+      }
+    },
+    "bombay": {
+      "label": "Bombay",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Bombay",
+        "Pumpkin": "Cat~PureBreed~Bombay",
+        "HealthyPaws": "2011"
+      }
+    },
+    "brazilian-shorthair": {
+      "label": "Brazilian Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Brazilian Shorthair",
+        "Pumpkin": "Cat~PureBreed~British%20Shorthair",
+        "HealthyPaws": "2078"
+      }
+    },
+    "british-shorthair": {
+      "label": "British Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~British Shorthair",
+        "Pumpkin": "Cat~PureBreed~British%20Shorthair",
+        "HealthyPaws": "2013"
+      }
+    },
+    "burmese": {
+      "label": "Burmese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Burmese",
+        "Pumpkin": "Cat~PureBreed~Burmese",
+        "HealthyPaws": "2014"
+      }
+    },
+    "burmilla": {
+      "label": "Burmilla",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Burmilla",
+        "Pumpkin": "Cat~PureBreed~Burmilla",
+        "HealthyPaws": "2015"
+      }
+    },
+    "california-spangled-cat": {
+      "label": "California Spangled Cat",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~California Spangled Cat",
+        "Pumpkin": "Cat~PureBreed~California%20Spangled",
+        "HealthyPaws": "2016"
+      }
+    },
+    "cameo-longhair": {
+      "label": "Cameo Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Cameo Longhair",
+        "Pumpkin": "Cat~PureBreed~Cameo%20Longhair",
+        "HealthyPaws": "2080"
+      }
+    },
+    "chantilly-tiffany": {
+      "label": "Chantilly/Tiffany",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Chantilly/Tiffany",
+        "Pumpkin": null,
+        "HealthyPaws": "2017"
+      }
+    },
+    "chartreux": {
+      "label": "Chartreux",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Chartreux",
+        "Pumpkin": "Cat~PureBreed~Chartreux",
+        "HealthyPaws": "2018"
+      }
+    },
+    "chausie": {
+      "label": "Chausie",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Chausie",
+        "Pumpkin": "Cat~PureBreed~Chausie",
+        "HealthyPaws": "2019"
+      }
+    },
+    "chinchilla": {
+      "label": "Chinchilla",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Chinchilla",
+        "Pumpkin": "Cat~PureBreed~Chinchilla",
+        "HealthyPaws": "2020"
+      }
+    },
+    "colorpoint": {
+      "label": "Colorpoint",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Colorpoint",
+        "Pumpkin": "Cat~PureBreed~Colorpoint%20Longhair",
+        "HealthyPaws": "2081"
+      }
+    },
+    "colorpoint-longhair": {
+      "label": "Colorpoint Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Colorpoint Longhair",
+        "Pumpkin": "Cat~PureBreed~Colorpoint%20Longhair",
+        "HealthyPaws": "2082"
+      }
+    },
+    "colorpoint-shorthair": {
+      "label": "Colorpoint Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Colorpoint Shorthair",
+        "Pumpkin": "Cat~PureBreed~Colorpoint%20Shorthair",
+        "HealthyPaws": "2021"
+      }
+    },
+    "cornish-rex": {
+      "label": "Cornish Rex",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Cornish Rex",
+        "Pumpkin": "Cat~PureBreed~Cornish%20Rex",
+        "HealthyPaws": "2022"
+      }
+    },
+    "cymric": {
+      "label": "Cymric",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Cymric",
+        "Pumpkin": "Cat~PureBreed~Cymric",
+        "HealthyPaws": "2023"
+      }
+    },
+    "devon-rex": {
+      "label": "Devon Rex",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Devon Rex",
+        "Pumpkin": "Cat~PureBreed~Devon%20Rex",
+        "HealthyPaws": "2024"
+      }
+    },
+    "egyptian-mau": {
+      "label": "Egyptian Mau",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Egyptian Mau",
+        "Pumpkin": "Cat~PureBreed~Egyptian%20Mau",
+        "HealthyPaws": "2027"
+      }
+    },
+    "european-burmese": {
+      "label": "European Burmese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~European Burmese",
+        "Pumpkin": "Cat~PureBreed~European%20Burmese",
+        "HealthyPaws": "2028"
+      }
+    },
+    "european-shorthair": {
+      "label": "European Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~European Shorthair",
+        "Pumpkin": "Cat~PureBreed~European%20Shorthair",
+        "HealthyPaws": "2029"
+      }
+    },
+    "exotic": {
+      "label": "Exotic",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Exotic",
+        "Pumpkin": "Cat~PureBreed~Exotic%20Longhair",
+        "HealthyPaws": "2030"
+      }
+    },
+    "exotic-longhair": {
+      "label": "Exotic Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Exotic Longhair",
+        "Pumpkin": "Cat~PureBreed~Exotic%20Longhair",
+        "HealthyPaws": "2080"
+      }
+    },
+    "exotic-shorthair": {
+      "label": "Exotic Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~ExoticShorthair",
+        "Pumpkin": "Cat~PureBreed~Exotic%20Shorthair",
+        "HealthyPaws": "319"
+      }
+    },
+    "feral": {
+      "label": "Feral",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Feral",
+        "Pumpkin": "Cat~PureBreed~Balinese",
+        "HealthyPaws": "2083"
+      }
+    },
+    "german-rex": {
+      "label": "German Rex",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~German Rex",
+        "Pumpkin": "Cat~PureBreed~Devon%20Rex",
+        "HealthyPaws": "2031"
+      }
+    },
+    "havana-brown": {
+      "label": "Havana Brown",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Havana Brown",
+        "Pumpkin": "Cat~PureBreed~Havana%20Brown",
+        "HealthyPaws": "2033"
+      }
+    },
+    "highland-fold": {
+      "label": "Highland Fold",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Highland Fold",
+        "Pumpkin": "Cat~PureBreed~Highland%20Lynx%20Cat",
+        "HealthyPaws": "2084"
+      }
+    },
+    "highland-lynx": {
+      "label": "Highland Lynx",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Highland Lynx",
+        "Pumpkin": "Cat~PureBreed~Highland%20Lynx%20Cat",
+        "HealthyPaws": "2085"
+      }
+    },
+    "himalayan": {
+      "label": "Himalayan",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Himalayan",
+        "Pumpkin": "Cat~PureBreed~Himalayan",
+        "HealthyPaws": "2035"
+      }
+    },
+    "himalayan-blue-point": {
+      "label": "Himalayan Blue Point",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Himalayan Blue Point",
+        "Pumpkin": "Cat~PureBreed~Himalayan",
+        "HealthyPaws": "2035"
+      }
+    },
+    "himalayan-flame-point": {
+      "label": "Himalayan Flame Point",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Himalayan Flame Point",
+        "Pumpkin": "Cat~PureBreed~Himalayan",
+        "HealthyPaws": "2035"
+      }
+    },
+    "himalayan-lilac-point": {
+      "label": "Himalayan Lilac Point",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Himalayan Lilac Point",
+        "Pumpkin": "Cat~PureBreed~Himalayan",
+        "HealthyPaws": "2035"
+      }
+    },
+    "himalayan-seal-point": {
+      "label": "Himalayan Seal Point",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Himalayan Seal Point",
+        "Pumpkin": "Cat~PureBreed~Himalayan",
+        "HealthyPaws": "2035"
+      }
+    },
+    "japanese-bobtail": {
+      "label": "Japanese Bobtail",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Japanese Bobtail",
+        "Pumpkin": "Cat~PureBreed~Japanese%20Bobtail",
+        "HealthyPaws": "2036"
+      }
+    },
+    "javanese": {
+      "label": "Javanese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Javanese",
+        "Pumpkin": "Cat~PureBreed~Japanese%20Bobtail",
+        "HealthyPaws": "2037"
+      }
+    },
+    "kashmir": {
+      "label": "Kashmir",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Kashmir",
+        "Pumpkin": "Cat~PureBreed~American%20Bobtail",
+        "HealthyPaws": "2038"
+      }
+    },
+    "korat": {
+      "label": "Korat",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Korat",
+        "Pumpkin": "Cat~PureBreed~Korat",
+        "HealthyPaws": "2039"
+      }
+    },
+    "la-perm": {
+      "label": "La Perm",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~La Perm",
+        "Pumpkin": "Cat~PureBreed~LaPerm",
+        "HealthyPaws": "2040"
+      }
+    },
+    "maine-coon": {
+      "label": "Maine Coon",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Maine Coon",
+        "Pumpkin": "Cat~PureBreed~Maine%20Coon",
+        "HealthyPaws": "2041"
+      }
+    },
+    "manx": {
+      "label": "Manx",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Manx",
+        "Pumpkin": "Cat~PureBreed~Manx",
+        "HealthyPaws": "2042"
+      }
+    },
+    "manx-longhair": {
+      "label": "Manx Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Manx Longhair",
+        "Pumpkin": "Cat~Mixed~American%20Longhair",
+        "HealthyPaws": "2075"
+      }
+    },
+    "munchkin": {
+      "label": "Munchkin",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Munchkin",
+        "Pumpkin": "Cat~PureBreed~Munchkin",
+        "HealthyPaws": "2043"
+      }
+    },
+    "nebelung": {
+      "label": "Nebelung",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Nebelung",
+        "Pumpkin": "Cat~PureBreed~Nebelung",
+        "HealthyPaws": "2044"
+      }
+    },
+    "norwegian-forest-cat": {
+      "label": "Norwegian Forest Cat",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Norwegian Forest Cat",
+        "Pumpkin": "Cat~PureBreed~Norwegian%20Forest",
+        "HealthyPaws": "2045"
+      }
+    },
+    "ocicat": {
+      "label": "Ocicat",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Ocicat",
+        "Pumpkin": "Cat~PureBreed~Ocicat",
+        "HealthyPaws": "2046"
+      }
+    },
+    "oriental": {
+      "label": "Oriental",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Oriental",
+        "Pumpkin": "Cat~PureBreed~Oriental",
+        "HealthyPaws": "2048"
+      }
+    },
+    "oriental-colorpoint": {
+      "label": "Oriental Colorpoint",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Oriental Colorpoint",
+        "Pumpkin": "Cat~PureBreed~Oriental",
+        "HealthyPaws": "2081"
+      }
+    },
+    "oriental-longhair": {
+      "label": "Oriental Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Oriental Longhair",
+        "Pumpkin": "Cat~Mixed~Domestic%20Longhair",
+        "HealthyPaws": "2075"
+      }
+    },
+    "oriental-shorthair": {
+      "label": "Oriental Shorthair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Oriental Shorthair",
+        "Pumpkin": "Cat~Mixed~Domestic%20Shorthair",
+        "HealthyPaws": "2004"
+      }
+    },
+    "persian": {
+      "label": "Persian",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Persian",
+        "Pumpkin": "Cat~PureBreed~Persian",
+        "HealthyPaws": "2049"
+      }
+    },
+    "peterbald": {
+      "label": "Peterbald",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Peterbald",
+        "Pumpkin": null,
+        "HealthyPaws": "2050"
+      }
+    },
+    "pinto": {
+      "label": "Pinto",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Pinto",
+        "Pumpkin": "Cat~PureBreed~Pinto",
+        "HealthyPaws": "2089"
+      }
+    },
+    "pixie-bob": {
+      "label": "Pixie-Bob",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Pixie-Bob",
+        "Pumpkin": "Cat~PureBreed~Pixie%20Bob",
+        "HealthyPaws": "2051"
+      }
+    },
+    "ragamuffin": {
+      "label": "RagaMuffin",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~RagaMuffin",
+        "Pumpkin": "Cat~PureBreed~Ragamuffin",
+        "HealthyPaws": "2052"
+      }
+    },
+    "ragdoll": {
+      "label": "Ragdoll",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Ragdoll",
+        "Pumpkin": "Cat~PureBreed~Ragdoll",
+        "HealthyPaws": "2053"
+      }
+    },
+    "russian-blue": {
+      "label": "Russian Blue",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Russian Blue",
+        "Pumpkin": "Cat~PureBreed~Russian%20Blue",
+        "HealthyPaws": "2054"
+      }
+    },
+    "safari-cat": {
+      "label": "Safari Cat",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Safari Cat",
+        "Pumpkin": "Cat~PureBreed~Ocicat",
+        "HealthyPaws": "2055"
+      }
+    },
+    "savannah": {
+      "label": "Savannah",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Savannah",
+        "Pumpkin": "Cat~PureBreed~Savannah",
+        "HealthyPaws": "2056"
+      }
+    },
+    "scotish-fold": {
+      "label": "Scottish Fold",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Scottish Fold Longhair",
+        "Pumpkin": "Cat~PureBreed~Scottish%20Fold",
+        "HealthyPaws": "2057"
+      }
+    },
+    "scottish-fold-longhair": {
+      "label": "Scottish Fold Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Scottish Fold Longhair",
+        "Pumpkin": "Cat~PureBreed~Scottish%20Fold",
+        "HealthyPaws": "2012"
+      }
+    },
+    "selkirk-rex": {
+      "label": "Selkirk Rex",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Selkirk Rex",
+        "Pumpkin": "Cat~PureBreed~Selkirk%20Rex",
+        "HealthyPaws": "2058"
+      }
+    },
+    "selkirk-rex-longhair": {
+      "label": "Selkirk Rex Longhair",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Selkirk Rex Longhair",
+        "Pumpkin": "Cat~PureBreed~Colorpoint%20Longhair",
+        "HealthyPaws": "2082"
+      }
+    },
+    "seychellois": {
+      "label": "Seychellois",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Seychellois",
+        "Pumpkin": "Cat~PureBreed~Seychellois",
+        "HealthyPaws": "2060"
+      }
+    },
+    "siamese": {
+      "label": "Siamese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Siamese",
+        "Pumpkin": "Cat~PureBreed~Siamese",
+        "HealthyPaws": "2061"
+      }
+    },
+    "siberian": {
+      "label": "Siberian",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Siberian",
+        "Pumpkin": "Cat~PureBreed~Siberian",
+        "HealthyPaws": "2062"
+      }
+    },
+    "singapura": {
+      "label": "Singapura",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Singapura",
+        "Pumpkin": "Cat~PureBreed~Singapura",
+        "HealthyPaws": "2063"
+      }
+    },
+    "snowshoe": {
+      "label": "Snowshoe",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Snowshoe",
+        "Pumpkin": "Cat~PureBreed~Snowshoe",
+        "HealthyPaws": "2064"
+      }
+    },
+    "sokoke": {
+      "label": "Sokoke",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Sokoke",
+        "Pumpkin": "Cat~PureBreed~Snowshoe",
+        "HealthyPaws": "2065"
+      }
+    },
+    "somali": {
+      "label": "Somali",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Somali",
+        "Pumpkin": "Cat~PureBreed~Somali",
+        "HealthyPaws": "2066"
+      }
+    },
+    "sphynx": {
+      "label": "Sphynx",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Sphynx",
+        "Pumpkin": "Cat~PureBreed~Sphynx",
+        "HealthyPaws": "2067"
+      }
+    },
+    "sterling": {
+      "label": "Sterling",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Sterling",
+        "Pumpkin": "Cat~PureBreed~Singapura",
+        "HealthyPaws": "2090"
+      }
+    },
+    "tiffanie": {
+      "label": "Tiffanie",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Tiffanie",
+        "Pumpkin": "Cat~PureBreed~Tiffanie",
+        "HealthyPaws": "2017"
+      }
+    },
+    "tonkinese": {
+      "label": "Tonkinese",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Tonkinese",
+        "Pumpkin": "Cat~PureBreed~Tonkinese",
+        "HealthyPaws": "2069"
+      }
+    },
+    "turkish-angora": {
+      "label": "Turkish Angora",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Turkish Angora",
+        "Pumpkin": "Cat~PureBreed~Turkish%20Angora",
+        "HealthyPaws": "2071"
+      }
+    },
+    "turkish-van": {
+      "label": "Turkish Van",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~Turkish Van",
+        "Pumpkin": "Cat~PureBreed~Turkish%20Van",
+        "HealthyPaws": "2072"
+      }
+    },
+    "york-chocolate": {
+      "label": "York Chocolate",
+      "providers": {
+        "PrudentPet": "Cat~PureBreed~York Chocolate",
+        "Pumpkin": null,
+        "HealthyPaws": "2073"
+      }
+    }
+  }
