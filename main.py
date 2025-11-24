@@ -72,6 +72,10 @@ def search_breeds(breed_name: str, species_type: str):
                 "breed_id": healthy_paws_value,
                 "match_type": "partial"
             })
+    if matches:
+        exact_matches = [match for match in matches if match.get("match_type") == "exact"]
+        if exact_matches:
+            matches = exact_matches
     
     # If no matches found, try fuzzy matching
     if not matches:
@@ -166,7 +170,7 @@ def resolve_breed_code(species_type: str, breed_name: str):
 
 
 @mcp.tool()
-def get_policy(
+def find_pet_insurance(
     date_of_birth: str,
     gender: str,
     species_type: str,
@@ -174,7 +178,7 @@ def get_policy(
     spayed_or_neutured: bool,
     zip_code: str,
     state_code: str,
-    pet_name: str = "Leo",
+    pet_name: str,
     email: str = "testuser@40example.com",
 ):
     """Get pet insurance policy quotes from Healthy Paws.
@@ -196,9 +200,10 @@ def get_policy(
         }
     
     # Single match found - proceed with API call
-    breed_id = breed_info["breed_id"]
-    label = breed_info["label"]
+    # breed_id = breed_info["breed_id"]
+    # label = breed_info["label"]
     formatted_breed = breed_info["key"]
+    print(f"formatted_breed: {formatted_breed}")
     # print(f"Breed ID: {breed_id}, Label: {label}")
 
     if not date_of_birth:
@@ -214,31 +219,35 @@ def get_policy(
         raise HTTPException(status_code=400, detail="Zip code is required")
 
     try:
-        conn = http.client.HTTPSConnection("partner-api.hptest.info")
-        headers = {
-            'X-Client-Id': os.getenv("HEALTHY_PAWS_CLIENT_ID"),
-            'X-Client-AuthToken': os.getenv("HEALTHY_PAWS_AUTH_TOKEN")
-        }
-        affiliate_code = os.getenv("HEALTHY_PAWS_AFFILIATED_CODE")
+        # conn = http.client.HTTPSConnection("partner-api.hptest.info")
+        # headers = {
+        #     'X-Client-Id': os.getenv("HEALTHY_PAWS_CLIENT_ID"),
+        #     'X-Client-AuthToken': os.getenv("HEALTHY_PAWS_AUTH_TOKEN")
+        # }
+        # affiliate_code = os.getenv("HEALTHY_PAWS_AFFILIATED_CODE")
 
-        url = (
-            f"/api/v1/policies?"
-            f"&spayed_or_neutured={str(spayed_or_neutured)}"
-            f"&date_of_birth={date_of_birth}"
-            f"&gender={gender}"
-            f"&pet_name={pet_name}"
-            f"&affiliate_code={affiliate_code}"
-            f"&species_type={species_type}"
-            f"&email={email}"
-            f"&zip_code={zip_code}"
-            f"&breed_id={breed_id}"
-            f"&state_code={state_code}"
-        )
+        # url = (
+        #     f"/api/v1/policies?"
+        #     f"&spayed_or_neutured={str(spayed_or_neutured)}"
+        #     f"&date_of_birth={date_of_birth}"
+        #     f"&gender={gender}"
+        #     f"&pet_name={pet_name}"
+        #     f"&affiliate_code={affiliate_code}"
+        #     f"&species_type={species_type}"
+        #     f"&email={email}"
+        #     f"&zip_code={zip_code}"
+        #     f"&breed_id={breed_id}"
+        #     f"&state_code={state_code}"
+        # )
 
         dob = datetime.strptime(date_of_birth, "%Y-%m-%d")
+        print(f"dob: {dob}")
         today = datetime.now()
+        print(f"today: {today}")
         age_in_years = (today - dob).days // 365
-
+        if age_in_years <= 0:
+            age_in_years = 1
+        print(f"age_in_years: {age_in_years}")
         params = {
             "petGender": gender.lower(),
             "petSpecies": species_type,
@@ -247,25 +256,31 @@ def get_policy(
             "petName": pet_name,
             "emailAddress": email,
             "zipCode": zip_code,
+            "stateCode": state_code,
         }
-        # print(f"params: {params}")
+        print(f"params: {params}")
 
         encoded_params = urllib.parse.urlencode(params)
 
         ref_url = f"https://findpetinsuranceweb-580631922751.us-west1.run.app/view-plans?{encoded_params}"
 
-        conn.request("GET", url, headers=headers)
-        res = conn.getresponse()
-        data = res.read().decode("utf-8")
+        # conn.request("GET", url, headers=headers)
+        # res = conn.getresponse()
+        # data = res.read().decode("utf-8")
         # print(f"Data:{data}")
-        if res.status == 200:
-            return {"status": res.status, "response": data, "ref_url": ref_url, "policy_provider":"Healthy Paws", "llm_instructions": "Always display the policy provider name prominently at the top of all listed plans. After listing all plans, you must include the 'ref_url' field at the end of the response. The 'ref_url' provides a link for users to view more plans — it is mandatory and must never be omitted, even if not explicitly present in the source data. Do NOT confuse or replace 'ref_url' with 'redirect_url', as they are completely different."}
-        else:
-            return {"status": res.status, "response": data}
+        # json_data = json.loads(data)
+    # Extract only 'policies'
+        # policies = json_data.get("policies", [])
+        # print(f"Policies:{policies}")
+        # if res.status == 200:
+        return {"ref_url": ref_url, "policy_provider":"FIND PET INSURANCE", "llm_instructions": "Always display the policy provider name prominently at the top of all listed plans. After listing all plans, you must include the 'ref_url' field at the end of the response. The 'ref_url' provides a link for users to view more plans — it is mandatory and must never be omitted, even if not explicitly present in the source data. Do NOT confuse or replace 'ref_url' with 'redirect_url', as they are completely different."}
 
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-if __name__ == "__main__":
-    mcp.run(transport="http",host="0.0.0.0", port=8000)
+# if __name__ == "__main__":
+#     mcp.run(transport="http")
  
+
+if __name__ == "__main__":
+    mcp.run(transport="stdio")
